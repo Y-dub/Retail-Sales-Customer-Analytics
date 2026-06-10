@@ -1,0 +1,4373 @@
+customer_key,customer_id,segment
+0,,Unattributed (no CustomerID)
+1,12346.0,Lost / dormant
+2,12347.0,Champions
+3,12348.0,At risk
+4,12349.0,Recent / promising
+5,12350.0,Lost / dormant
+6,12352.0,Champions
+7,12353.0,Lost / dormant
+8,12354.0,Lost / dormant
+9,12355.0,Lost / dormant
+10,12356.0,Champions
+11,12357.0,Recent / promising
+12,12358.0,Loyal
+13,12359.0,At risk
+14,12360.0,At risk
+15,12361.0,Lost / dormant
+16,12362.0,Champions
+17,12363.0,At risk
+18,12364.0,Champions
+19,12365.0,Lost / dormant
+20,12367.0,Recent / promising
+21,12370.0,Champions
+22,12371.0,Loyal
+23,12372.0,At risk
+24,12373.0,Lost / dormant
+25,12374.0,Recent / promising
+26,12375.0,Loyal
+27,12377.0,Lost / dormant
+28,12378.0,At risk
+29,12379.0,At risk
+30,12380.0,Champions
+31,12381.0,Champions
+32,12383.0,Lost / dormant
+33,12384.0,Loyal
+34,12386.0,Lost / dormant
+35,12388.0,Champions
+36,12390.0,At risk
+37,12391.0,Recent / promising
+38,12393.0,At risk
+39,12394.0,At risk
+40,12395.0,Champions
+41,12397.0,Loyal
+42,12398.0,Recent / promising
+43,12399.0,At risk
+44,12401.0,Lost / dormant
+45,12402.0,Lost / dormant
+46,12403.0,Recent / promising
+47,12405.0,Lost / dormant
+48,12406.0,Loyal
+49,12407.0,Champions
+50,12408.0,Champions
+51,12409.0,At risk
+52,12410.0,Lost / dormant
+53,12412.0,At risk
+54,12413.0,At risk
+55,12414.0,Lost / dormant
+56,12415.0,Champions
+57,12417.0,Champions
+58,12418.0,At risk
+59,12420.0,At risk
+60,12421.0,Champions
+61,12422.0,At risk
+62,12423.0,Champions
+63,12424.0,Lost / dormant
+64,12425.0,At risk
+65,12426.0,Lost / dormant
+66,12427.0,Champions
+67,12428.0,Champions
+68,12429.0,Champions
+69,12430.0,Recent / promising
+70,12431.0,Champions
+71,12432.0,Champions
+72,12433.0,Champions
+73,12434.0,At risk
+74,12435.0,At risk
+75,12436.0,At risk
+76,12437.0,Champions
+77,12438.0,Loyal
+78,12441.0,Lost / dormant
+79,12442.0,Recent / promising
+80,12444.0,Champions
+81,12445.0,Recent / promising
+82,12446.0,At risk
+83,12447.0,Lost / dormant
+84,12448.0,Recent / promising
+85,12449.0,Champions
+86,12450.0,Lost / dormant
+87,12451.0,Champions
+88,12452.0,Loyal
+89,12453.0,At risk
+90,12454.0,At risk
+91,12455.0,At risk
+92,12456.0,Champions
+93,12457.0,At risk
+94,12458.0,At risk
+95,12461.0,At risk
+96,12462.0,Loyal
+97,12463.0,At risk
+98,12464.0,Champions
+99,12465.0,Loyal
+100,12468.0,Lost / dormant
+101,12471.0,Champions
+102,12472.0,Champions
+103,12473.0,Champions
+104,12474.0,Champions
+105,12475.0,At risk
+106,12476.0,Champions
+107,12477.0,Champions
+108,12478.0,Recent / promising
+109,12479.0,Recent / promising
+110,12480.0,Champions
+111,12481.0,Champions
+112,12483.0,Champions
+113,12484.0,Champions
+114,12488.0,Champions
+115,12489.0,Lost / dormant
+116,12490.0,Champions
+117,12491.0,Recent / promising
+118,12492.0,At risk
+119,12493.0,Lost / dormant
+120,12494.0,Champions
+121,12497.0,At risk
+122,12498.0,Loyal
+123,12500.0,Champions
+124,12501.0,Lost / dormant
+125,12502.0,At risk
+126,12503.0,Unattributed (no CustomerID)
+127,12504.0,Loyal
+128,12505.0,Unattributed (no CustomerID)
+129,12506.0,Lost / dormant
+130,12507.0,At risk
+131,12508.0,Loyal
+132,12509.0,Lost / dormant
+133,12510.0,Lost / dormant
+134,12512.0,At risk
+135,12513.0,At risk
+136,12514.0,Lost / dormant
+137,12515.0,Lost / dormant
+138,12516.0,At risk
+139,12517.0,Champions
+140,12518.0,Champions
+141,12519.0,At risk
+142,12520.0,At risk
+143,12521.0,Lost / dormant
+144,12522.0,Loyal
+145,12523.0,Champions
+146,12524.0,Champions
+147,12526.0,Champions
+148,12527.0,At risk
+149,12528.0,Champions
+150,12530.0,At risk
+151,12531.0,Recent / promising
+152,12532.0,Recent / promising
+153,12534.0,At risk
+154,12535.0,At risk
+155,12536.0,Champions
+156,12538.0,Recent / promising
+157,12539.0,Champions
+158,12540.0,Champions
+159,12541.0,Champions
+160,12544.0,Recent / promising
+161,12545.0,At risk
+162,12546.0,Loyal
+163,12547.0,Lost / dormant
+164,12548.0,Lost / dormant
+165,12550.0,At risk
+166,12551.0,Lost / dormant
+167,12552.0,Loyal
+168,12553.0,Champions
+169,12556.0,Loyal
+170,12557.0,Champions
+171,12558.0,Recent / promising
+172,12559.0,Lost / dormant
+173,12560.0,Champions
+174,12561.0,Lost / dormant
+175,12562.0,Champions
+176,12564.0,Lost / dormant
+177,12565.0,Lost / dormant
+178,12566.0,At risk
+179,12567.0,Champions
+180,12569.0,Champions
+181,12571.0,Loyal
+182,12572.0,Loyal
+183,12573.0,Lost / dormant
+184,12574.0,Lost / dormant
+185,12576.0,Champions
+186,12577.0,Loyal
+187,12578.0,Loyal
+188,12579.0,At risk
+189,12580.0,Lost / dormant
+190,12581.0,Recent / promising
+191,12582.0,Lost / dormant
+192,12583.0,Champions
+193,12584.0,Champions
+194,12585.0,Lost / dormant
+195,12586.0,Recent / promising
+196,12587.0,Recent / promising
+197,12588.0,Recent / promising
+198,12589.0,Loyal
+199,12590.0,Lost / dormant
+200,12591.0,Lost / dormant
+201,12592.0,At risk
+202,12593.0,At risk
+203,12594.0,Champions
+204,12596.0,Loyal
+205,12597.0,Champions
+206,12598.0,Champions
+207,12599.0,Champions
+208,12600.0,Champions
+209,12601.0,Lost / dormant
+210,12602.0,At risk
+211,12603.0,Recent / promising
+212,12604.0,At risk
+213,12605.0,Unattributed (no CustomerID)
+214,12607.0,At risk
+215,12609.0,At risk
+216,12610.0,Champions
+217,12611.0,At risk
+218,12612.0,At risk
+219,12613.0,At risk
+220,12614.0,Lost / dormant
+221,12615.0,Champions
+222,12616.0,At risk
+223,12617.0,Recent / promising
+224,12618.0,Recent / promising
+225,12619.0,Champions
+226,12620.0,Champions
+227,12621.0,Champions
+228,12622.0,Lost / dormant
+229,12623.0,Lost / dormant
+230,12624.0,At risk
+231,12625.0,Lost / dormant
+232,12626.0,Champions
+233,12627.0,Champions
+234,12628.0,Champions
+235,12630.0,Loyal
+236,12631.0,At risk
+237,12633.0,At risk
+238,12635.0,At risk
+239,12637.0,At risk
+240,12638.0,Recent / promising
+241,12639.0,Lost / dormant
+242,12640.0,Champions
+243,12641.0,At risk
+244,12642.0,Champions
+245,12643.0,At risk
+246,12644.0,At risk
+247,12645.0,Champions
+248,12646.0,Loyal
+249,12647.0,Champions
+250,12648.0,Lost / dormant
+251,12649.0,At risk
+252,12650.0,Recent / promising
+253,12651.0,Lost / dormant
+254,12652.0,Lost / dormant
+255,12653.0,Lost / dormant
+256,12654.0,Loyal
+257,12656.0,Champions
+258,12657.0,Champions
+259,12658.0,Recent / promising
+260,12659.0,Recent / promising
+261,12660.0,Recent / promising
+262,12662.0,Champions
+263,12664.0,Champions
+264,12665.0,Lost / dormant
+265,12666.0,Unattributed (no CustomerID)
+266,12667.0,At risk
+267,12668.0,Champions
+268,12669.0,Lost / dormant
+269,12670.0,Champions
+270,12672.0,Lost / dormant
+271,12673.0,Loyal
+272,12674.0,Champions
+273,12676.0,Champions
+274,12678.0,Champions
+275,12679.0,At risk
+276,12680.0,Champions
+277,12681.0,Champions
+278,12682.0,Champions
+279,12683.0,Champions
+280,12684.0,Champions
+281,12685.0,Champions
+282,12686.0,Lost / dormant
+283,12688.0,At risk
+284,12689.0,Loyal
+285,12690.0,Lost / dormant
+286,12691.0,Champions
+287,12693.0,At risk
+288,12694.0,At risk
+289,12695.0,Loyal
+290,12697.0,Champions
+291,12700.0,Champions
+292,12701.0,At risk
+293,12702.0,Recent / promising
+294,12703.0,At risk
+295,12704.0,Champions
+296,12705.0,Champions
+297,12707.0,Lost / dormant
+298,12708.0,Champions
+299,12709.0,Champions
+300,12710.0,At risk
+301,12712.0,Champions
+302,12713.0,Recent / promising
+303,12714.0,Champions
+304,12715.0,At risk
+305,12716.0,Loyal
+306,12717.0,Lost / dormant
+307,12718.0,At risk
+308,12719.0,Loyal
+309,12720.0,Champions
+310,12721.0,Champions
+311,12722.0,At risk
+312,12723.0,Champions
+313,12724.0,Champions
+314,12725.0,Lost / dormant
+315,12726.0,Champions
+316,12727.0,Champions
+317,12728.0,At risk
+318,12729.0,At risk
+319,12731.0,Champions
+320,12732.0,Lost / dormant
+321,12733.0,Lost / dormant
+322,12734.0,Lost / dormant
+323,12735.0,Lost / dormant
+324,12736.0,Lost / dormant
+325,12738.0,Lost / dormant
+326,12739.0,At risk
+327,12740.0,At risk
+328,12743.0,At risk
+329,12744.0,At risk
+330,12747.0,Champions
+331,12748.0,Champions
+332,12749.0,Champions
+333,12750.0,At risk
+334,12752.0,At risk
+335,12753.0,Champions
+336,12754.0,Lost / dormant
+337,12755.0,Lost / dormant
+338,12756.0,At risk
+339,12757.0,Champions
+340,12758.0,At risk
+341,12759.0,At risk
+342,12762.0,Loyal
+343,12763.0,At risk
+344,12764.0,Lost / dormant
+345,12766.0,Champions
+346,12769.0,Lost / dormant
+347,12770.0,Lost / dormant
+348,12772.0,At risk
+349,12775.0,Champions
+350,12778.0,Champions
+351,12779.0,Champions
+352,12781.0,At risk
+353,12782.0,Champions
+354,12783.0,Champions
+355,12784.0,Loyal
+356,12785.0,Lost / dormant
+357,12787.0,Loyal
+358,12789.0,At risk
+359,12790.0,Lost / dormant
+360,12791.0,Lost / dormant
+361,12792.0,Lost / dormant
+362,12793.0,Lost / dormant
+363,12794.0,At risk
+364,12795.0,Recent / promising
+365,12797.0,Lost / dormant
+366,12798.0,Champions
+367,12802.0,Lost / dormant
+368,12808.0,Loyal
+369,12809.0,Lost / dormant
+370,12811.0,Lost / dormant
+371,12812.0,Recent / promising
+372,12814.0,At risk
+373,12815.0,Lost / dormant
+374,12816.0,At risk
+375,12817.0,Lost / dormant
+376,12818.0,Lost / dormant
+377,12820.0,Champions
+378,12821.0,Lost / dormant
+379,12822.0,At risk
+380,12823.0,At risk
+381,12824.0,At risk
+382,12826.0,Champions
+383,12827.0,Loyal
+384,12828.0,Champions
+385,12829.0,Lost / dormant
+386,12830.0,Champions
+387,12831.0,Lost / dormant
+388,12832.0,Loyal
+389,12833.0,Lost / dormant
+390,12834.0,Lost / dormant
+391,12836.0,At risk
+392,12837.0,Lost / dormant
+393,12838.0,Loyal
+394,12839.0,Champions
+395,12840.0,Lost / dormant
+396,12841.0,Champions
+397,12842.0,At risk
+398,12843.0,At risk
+399,12844.0,Loyal
+400,12845.0,Lost / dormant
+401,12847.0,Recent / promising
+402,12849.0,Loyal
+403,12851.0,At risk
+404,12852.0,Lost / dormant
+405,12853.0,At risk
+406,12854.0,At risk
+407,12855.0,Lost / dormant
+408,12856.0,Champions
+409,12857.0,Lost / dormant
+410,12863.0,At risk
+411,12864.0,At risk
+412,12865.0,Loyal
+413,12866.0,Lost / dormant
+414,12867.0,Champions
+415,12868.0,Lost / dormant
+416,12870.0,Unattributed (no CustomerID)
+417,12871.0,At risk
+418,12872.0,Lost / dormant
+419,12873.0,Lost / dormant
+420,12875.0,Lost / dormant
+421,12876.0,At risk
+422,12877.0,Champions
+423,12878.0,Lost / dormant
+424,12879.0,Loyal
+425,12881.0,Lost / dormant
+426,12882.0,Loyal
+427,12883.0,Champions
+428,12884.0,At risk
+429,12885.0,At risk
+430,12886.0,At risk
+431,12888.0,Lost / dormant
+432,12890.0,Recent / promising
+433,12891.0,Lost / dormant
+434,12893.0,Recent / promising
+435,12895.0,Loyal
+436,12897.0,Lost / dormant
+437,12901.0,Champions
+438,12902.0,Lost / dormant
+439,12904.0,Loyal
+440,12906.0,Champions
+441,12908.0,Lost / dormant
+442,12909.0,Champions
+443,12910.0,Champions
+444,12912.0,Champions
+445,12913.0,Champions
+446,12915.0,Lost / dormant
+447,12916.0,At risk
+448,12917.0,At risk
+449,12919.0,Champions
+450,12920.0,Recent / promising
+451,12921.0,Champions
+452,12922.0,Lost / dormant
+453,12923.0,At risk
+454,12924.0,At risk
+455,12925.0,Loyal
+456,12928.0,Champions
+457,12929.0,Lost / dormant
+458,12930.0,At risk
+459,12931.0,Champions
+460,12933.0,Loyal
+461,12935.0,Champions
+462,12936.0,Champions
+463,12937.0,Champions
+464,12938.0,Recent / promising
+465,12939.0,At risk
+466,12940.0,At risk
+467,12942.0,At risk
+468,12943.0,Unattributed (no CustomerID)
+469,12944.0,Loyal
+470,12945.0,Lost / dormant
+471,12947.0,Lost / dormant
+472,12948.0,Champions
+473,12949.0,Champions
+474,12950.0,Champions
+475,12951.0,Champions
+476,12952.0,Champions
+477,12953.0,Recent / promising
+478,12955.0,Champions
+479,12956.0,Lost / dormant
+480,12957.0,Champions
+481,12962.0,Loyal
+482,12963.0,Champions
+483,12965.0,At risk
+484,12966.0,Recent / promising
+485,12967.0,Lost / dormant
+486,12968.0,At risk
+487,12970.0,Loyal
+488,12971.0,Champions
+489,12974.0,Lost / dormant
+490,12976.0,Lost / dormant
+491,12977.0,Lost / dormant
+492,12980.0,Lost / dormant
+493,12981.0,Loyal
+494,12982.0,Lost / dormant
+495,12984.0,Recent / promising
+496,12985.0,Loyal
+497,12987.0,At risk
+498,12988.0,Lost / dormant
+499,12989.0,Champions
+500,12990.0,Loyal
+501,12991.0,Loyal
+502,12993.0,Loyal
+503,12994.0,Champions
+504,12995.0,At risk
+505,12997.0,Champions
+506,12999.0,Lost / dormant
+507,13000.0,At risk
+508,13001.0,Champions
+509,13002.0,Lost / dormant
+510,13003.0,At risk
+511,13004.0,Champions
+512,13005.0,Lost / dormant
+513,13006.0,At risk
+514,13008.0,Lost / dormant
+515,13011.0,Lost / dormant
+516,13012.0,Champions
+517,13013.0,Champions
+518,13014.0,Champions
+519,13015.0,At risk
+520,13016.0,At risk
+521,13017.0,Recent / promising
+522,13018.0,Champions
+523,13021.0,Champions
+524,13023.0,At risk
+525,13026.0,Champions
+526,13027.0,At risk
+527,13028.0,Loyal
+528,13029.0,Champions
+529,13030.0,Loyal
+530,13032.0,At risk
+531,13033.0,Lost / dormant
+532,13034.0,At risk
+533,13035.0,At risk
+534,13037.0,At risk
+535,13038.0,At risk
+536,13040.0,Loyal
+537,13043.0,Lost / dormant
+538,13044.0,Lost / dormant
+539,13045.0,At risk
+540,13046.0,Loyal
+541,13047.0,Champions
+542,13048.0,Champions
+543,13049.0,At risk
+544,13050.0,Champions
+545,13052.0,Lost / dormant
+546,13055.0,At risk
+547,13058.0,Loyal
+548,13059.0,Lost / dormant
+549,13060.0,Lost / dormant
+550,13061.0,At risk
+551,13062.0,Lost / dormant
+552,13064.0,Champions
+553,13065.0,Lost / dormant
+554,13066.0,Loyal
+555,13067.0,At risk
+556,13068.0,Loyal
+557,13069.0,Champions
+558,13070.0,Lost / dormant
+559,13072.0,Lost / dormant
+560,13075.0,At risk
+561,13077.0,Champions
+562,13078.0,Champions
+563,13079.0,Loyal
+564,13080.0,Lost / dormant
+565,13081.0,Champions
+566,13082.0,At risk
+567,13083.0,Loyal
+568,13085.0,Lost / dormant
+569,13089.0,Champions
+570,13090.0,Champions
+571,13091.0,Recent / promising
+572,13092.0,At risk
+573,13093.0,Lost / dormant
+574,13094.0,Champions
+575,13095.0,At risk
+576,13097.0,Champions
+577,13098.0,Champions
+578,13099.0,At risk
+579,13101.0,Lost / dormant
+580,13102.0,Champions
+581,13103.0,Recent / promising
+582,13104.0,Champions
+583,13106.0,At risk
+584,13107.0,Champions
+585,13108.0,Lost / dormant
+586,13109.0,At risk
+587,13110.0,Champions
+588,13113.0,Champions
+589,13115.0,Champions
+590,13116.0,At risk
+591,13117.0,Champions
+592,13118.0,Champions
+593,13120.0,Lost / dormant
+594,13121.0,Lost / dormant
+595,13122.0,At risk
+596,13124.0,At risk
+597,13126.0,Champions
+598,13127.0,At risk
+599,13130.0,At risk
+600,13131.0,Champions
+601,13132.0,Lost / dormant
+602,13133.0,Lost / dormant
+603,13134.0,At risk
+604,13135.0,Lost / dormant
+605,13136.0,At risk
+606,13137.0,Champions
+607,13138.0,Champions
+608,13139.0,Champions
+609,13140.0,At risk
+610,13141.0,At risk
+611,13142.0,Recent / promising
+612,13144.0,Lost / dormant
+613,13145.0,Loyal
+614,13146.0,Recent / promising
+615,13147.0,Champions
+616,13148.0,Champions
+617,13149.0,Champions
+618,13151.0,Lost / dormant
+619,13153.0,Recent / promising
+620,13154.0,Unattributed (no CustomerID)
+621,13155.0,Champions
+622,13157.0,Champions
+623,13158.0,At risk
+624,13159.0,Champions
+625,13160.0,Recent / promising
+626,13161.0,Lost / dormant
+627,13162.0,At risk
+628,13165.0,Loyal
+629,13166.0,Lost / dormant
+630,13167.0,Champions
+631,13168.0,Champions
+632,13169.0,At risk
+633,13170.0,Recent / promising
+634,13171.0,Loyal
+635,13173.0,Loyal
+636,13174.0,Champions
+637,13176.0,Recent / promising
+638,13177.0,At risk
+639,13178.0,Champions
+640,13182.0,Recent / promising
+641,13183.0,Champions
+642,13184.0,Champions
+643,13185.0,Lost / dormant
+644,13186.0,Champions
+645,13187.0,Lost / dormant
+646,13188.0,Recent / promising
+647,13189.0,Loyal
+648,13192.0,At risk
+649,13193.0,At risk
+650,13194.0,At risk
+651,13196.0,Champions
+652,13198.0,Champions
+653,13199.0,Champions
+654,13200.0,Champions
+655,13203.0,Champions
+656,13207.0,Loyal
+657,13208.0,At risk
+658,13209.0,Champions
+659,13210.0,At risk
+660,13211.0,Champions
+661,13212.0,Champions
+662,13213.0,At risk
+663,13216.0,Lost / dormant
+664,13217.0,At risk
+665,13218.0,At risk
+666,13220.0,At risk
+667,13221.0,Lost / dormant
+668,13223.0,Lost / dormant
+669,13224.0,At risk
+670,13225.0,Champions
+671,13226.0,Lost / dormant
+672,13227.0,Lost / dormant
+673,13228.0,At risk
+674,13229.0,Lost / dormant
+675,13230.0,Champions
+676,13232.0,Champions
+677,13233.0,At risk
+678,13235.0,Lost / dormant
+679,13236.0,Loyal
+680,13238.0,Champions
+681,13239.0,Lost / dormant
+682,13240.0,At risk
+683,13242.0,At risk
+684,13243.0,Lost / dormant
+685,13244.0,At risk
+686,13245.0,Recent / promising
+687,13246.0,Champions
+688,13247.0,Loyal
+689,13248.0,At risk
+690,13249.0,At risk
+691,13253.0,Lost / dormant
+692,13255.0,Loyal
+693,13258.0,Champions
+694,13259.0,At risk
+695,13260.0,At risk
+696,13261.0,Lost / dormant
+697,13262.0,Lost / dormant
+698,13263.0,Champions
+699,13265.0,At risk
+700,13266.0,Champions
+701,13267.0,Champions
+702,13268.0,Champions
+703,13269.0,Champions
+704,13270.0,Lost / dormant
+705,13271.0,Recent / promising
+706,13272.0,Loyal
+707,13273.0,At risk
+708,13276.0,At risk
+709,13277.0,Loyal
+710,13278.0,Recent / promising
+711,13279.0,At risk
+712,13280.0,At risk
+713,13282.0,Champions
+714,13283.0,At risk
+715,13284.0,Lost / dormant
+716,13285.0,Champions
+717,13291.0,Lost / dormant
+718,13292.0,Loyal
+719,13294.0,Lost / dormant
+720,13295.0,Lost / dormant
+721,13296.0,At risk
+722,13297.0,Champions
+723,13298.0,Recent / promising
+724,13299.0,Lost / dormant
+725,13300.0,Lost / dormant
+726,13301.0,At risk
+727,13302.0,Lost / dormant
+728,13304.0,Lost / dormant
+729,13305.0,Champions
+730,13307.0,At risk
+731,13308.0,Champions
+732,13309.0,Champions
+733,13310.0,Champions
+734,13311.0,Loyal
+735,13313.0,Champions
+736,13314.0,Champions
+737,13316.0,Champions
+738,13317.0,At risk
+739,13318.0,Loyal
+740,13319.0,Champions
+741,13320.0,At risk
+742,13321.0,At risk
+743,13322.0,Recent / promising
+744,13323.0,Champions
+745,13324.0,Champions
+746,13325.0,At risk
+747,13327.0,Champions
+748,13328.0,Lost / dormant
+749,13329.0,Loyal
+750,13330.0,At risk
+751,13332.0,Recent / promising
+752,13334.0,At risk
+753,13336.0,At risk
+754,13338.0,Lost / dormant
+755,13339.0,Lost / dormant
+756,13340.0,Champions
+757,13341.0,Lost / dormant
+758,13343.0,Lost / dormant
+759,13344.0,At risk
+760,13345.0,Lost / dormant
+761,13347.0,At risk
+762,13348.0,At risk
+763,13349.0,Recent / promising
+764,13350.0,Loyal
+765,13351.0,At risk
+766,13352.0,At risk
+767,13354.0,At risk
+768,13355.0,At risk
+769,13356.0,At risk
+770,13357.0,Lost / dormant
+771,13358.0,Lost / dormant
+772,13359.0,At risk
+773,13362.0,Champions
+774,13363.0,Loyal
+775,13364.0,At risk
+776,13365.0,Loyal
+777,13366.0,Recent / promising
+778,13368.0,Lost / dormant
+779,13369.0,Lost / dormant
+780,13370.0,Lost / dormant
+781,13372.0,At risk
+782,13373.0,At risk
+783,13375.0,At risk
+784,13376.0,At risk
+785,13379.0,Loyal
+786,13381.0,Champions
+787,13382.0,Lost / dormant
+788,13384.0,Champions
+789,13385.0,Lost / dormant
+790,13388.0,At risk
+791,13389.0,Champions
+792,13390.0,At risk
+793,13391.0,Lost / dormant
+794,13394.0,Champions
+795,13395.0,Lost / dormant
+796,13396.0,Loyal
+797,13397.0,At risk
+798,13398.0,Lost / dormant
+799,13402.0,At risk
+800,13403.0,Recent / promising
+801,13404.0,Loyal
+802,13405.0,At risk
+803,13408.0,Champions
+804,13410.0,Champions
+805,13411.0,At risk
+806,13414.0,At risk
+807,13416.0,Loyal
+808,13417.0,Loyal
+809,13418.0,Champions
+810,13419.0,At risk
+811,13420.0,Lost / dormant
+812,13421.0,Loyal
+813,13422.0,At risk
+814,13425.0,At risk
+815,13426.0,Champions
+816,13427.0,Loyal
+817,13428.0,Recent / promising
+818,13429.0,Champions
+819,13430.0,Loyal
+820,13431.0,At risk
+821,13434.0,At risk
+822,13435.0,Champions
+823,13436.0,Recent / promising
+824,13437.0,Champions
+825,13439.0,Lost / dormant
+826,13441.0,At risk
+827,13447.0,Champions
+828,13448.0,Champions
+829,13449.0,Recent / promising
+830,13450.0,Champions
+831,13451.0,Champions
+832,13452.0,Lost / dormant
+833,13453.0,Lost / dormant
+834,13455.0,Loyal
+835,13456.0,Champions
+836,13458.0,Champions
+837,13460.0,Loyal
+838,13461.0,Champions
+839,13462.0,Lost / dormant
+840,13464.0,At risk
+841,13466.0,Lost / dormant
+842,13467.0,Loyal
+843,13468.0,Champions
+844,13470.0,At risk
+845,13471.0,Champions
+846,13473.0,At risk
+847,13474.0,Lost / dormant
+848,13475.0,Lost / dormant
+849,13476.0,Lost / dormant
+850,13477.0,Champions
+851,13479.0,Lost / dormant
+852,13481.0,Champions
+853,13482.0,Lost / dormant
+854,13483.0,At risk
+855,13484.0,Lost / dormant
+856,13485.0,Lost / dormant
+857,13486.0,At risk
+858,13487.0,At risk
+859,13488.0,Champions
+860,13489.0,At risk
+861,13491.0,At risk
+862,13492.0,At risk
+863,13493.0,Lost / dormant
+864,13494.0,Lost / dormant
+865,13495.0,Champions
+866,13496.0,Loyal
+867,13497.0,Lost / dormant
+868,13499.0,Champions
+869,13500.0,Champions
+870,13501.0,Lost / dormant
+871,13502.0,Loyal
+872,13503.0,At risk
+873,13504.0,At risk
+874,13505.0,At risk
+875,13506.0,Lost / dormant
+876,13507.0,Champions
+877,13508.0,Lost / dormant
+878,13509.0,Champions
+879,13510.0,Champions
+880,13512.0,Lost / dormant
+881,13513.0,At risk
+882,13514.0,At risk
+883,13515.0,At risk
+884,13516.0,Champions
+885,13517.0,At risk
+886,13518.0,At risk
+887,13519.0,At risk
+888,13520.0,At risk
+889,13521.0,Champions
+890,13522.0,Recent / promising
+891,13523.0,Champions
+892,13524.0,Champions
+893,13525.0,Loyal
+894,13527.0,Champions
+895,13529.0,At risk
+896,13531.0,Lost / dormant
+897,13532.0,Recent / promising
+898,13533.0,Lost / dormant
+899,13534.0,Champions
+900,13536.0,Champions
+901,13538.0,Champions
+902,13539.0,At risk
+903,13544.0,Loyal
+904,13546.0,Loyal
+905,13548.0,At risk
+906,13549.0,Champions
+907,13551.0,Lost / dormant
+908,13552.0,At risk
+909,13555.0,At risk
+910,13557.0,Loyal
+911,13558.0,Loyal
+912,13560.0,Recent / promising
+913,13561.0,Lost / dormant
+914,13562.0,At risk
+915,13563.0,At risk
+916,13564.0,Lost / dormant
+917,13565.0,Loyal
+918,13566.0,Loyal
+919,13568.0,Lost / dormant
+920,13569.0,Loyal
+921,13570.0,Lost / dormant
+922,13571.0,Champions
+923,13572.0,Lost / dormant
+924,13573.0,Loyal
+925,13575.0,Champions
+926,13576.0,Champions
+927,13577.0,Champions
+928,13579.0,Loyal
+929,13581.0,Lost / dormant
+930,13583.0,Lost / dormant
+931,13584.0,Lost / dormant
+932,13587.0,At risk
+933,13588.0,Champions
+934,13589.0,Loyal
+935,13590.0,Champions
+936,13591.0,At risk
+937,13592.0,Loyal
+938,13593.0,At risk
+939,13594.0,At risk
+940,13596.0,Loyal
+941,13598.0,Recent / promising
+942,13599.0,Champions
+943,13600.0,Lost / dormant
+944,13601.0,Loyal
+945,13602.0,At risk
+946,13603.0,Recent / promising
+947,13606.0,Loyal
+948,13607.0,Recent / promising
+949,13610.0,Champions
+950,13611.0,At risk
+951,13614.0,Champions
+952,13615.0,Lost / dormant
+953,13617.0,Loyal
+954,13618.0,Lost / dormant
+955,13621.0,At risk
+956,13623.0,Champions
+957,13626.0,Lost / dormant
+958,13627.0,At risk
+959,13629.0,Champions
+960,13630.0,Champions
+961,13631.0,At risk
+962,13632.0,Champions
+963,13634.0,Champions
+964,13635.0,At risk
+965,13636.0,Champions
+966,13637.0,At risk
+967,13638.0,Recent / promising
+968,13639.0,At risk
+969,13642.0,Lost / dormant
+970,13643.0,Loyal
+971,13644.0,Champions
+972,13645.0,At risk
+973,13647.0,Champions
+974,13649.0,Lost / dormant
+975,13650.0,Champions
+976,13651.0,Loyal
+977,13652.0,Champions
+978,13654.0,Champions
+979,13655.0,At risk
+980,13656.0,Lost / dormant
+981,13657.0,Loyal
+982,13658.0,Champions
+983,13659.0,Lost / dormant
+984,13662.0,At risk
+985,13663.0,Lost / dormant
+986,13666.0,At risk
+987,13667.0,Lost / dormant
+988,13668.0,Champions
+989,13669.0,Loyal
+990,13670.0,At risk
+991,13672.0,Lost / dormant
+992,13673.0,Loyal
+993,13675.0,Lost / dormant
+994,13678.0,Lost / dormant
+995,13680.0,Champions
+996,13681.0,Champions
+997,13682.0,Lost / dormant
+998,13684.0,Lost / dormant
+999,13685.0,Champions
+1000,13686.0,Lost / dormant
+1001,13689.0,At risk
+1002,13690.0,At risk
+1003,13692.0,Champions
+1004,13693.0,Unattributed (no CustomerID)
+1005,13694.0,Champions
+1006,13695.0,Champions
+1007,13697.0,Recent / promising
+1008,13699.0,Lost / dormant
+1009,13700.0,Champions
+1010,13703.0,Lost / dormant
+1011,13704.0,Champions
+1012,13705.0,Champions
+1013,13706.0,Lost / dormant
+1014,13707.0,Lost / dormant
+1015,13708.0,Lost / dormant
+1016,13709.0,Champions
+1017,13710.0,Recent / promising
+1018,13711.0,Lost / dormant
+1019,13712.0,Lost / dormant
+1020,13715.0,Lost / dormant
+1021,13716.0,Lost / dormant
+1022,13717.0,Champions
+1023,13718.0,Lost / dormant
+1024,13719.0,Champions
+1025,13720.0,At risk
+1026,13721.0,Recent / promising
+1027,13722.0,At risk
+1028,13723.0,Lost / dormant
+1029,13725.0,Champions
+1030,13726.0,Loyal
+1031,13727.0,Loyal
+1032,13728.0,Champions
+1033,13730.0,At risk
+1034,13731.0,Lost / dormant
+1035,13732.0,Recent / promising
+1036,13735.0,Champions
+1037,13736.0,Loyal
+1038,13737.0,Lost / dormant
+1039,13739.0,Recent / promising
+1040,13740.0,Lost / dormant
+1041,13741.0,At risk
+1042,13742.0,Champions
+1043,13743.0,Champions
+1044,13744.0,At risk
+1045,13745.0,Lost / dormant
+1046,13747.0,Lost / dormant
+1047,13748.0,At risk
+1048,13750.0,At risk
+1049,13751.0,Lost / dormant
+1050,13752.0,At risk
+1051,13753.0,Lost / dormant
+1052,13754.0,Lost / dormant
+1053,13755.0,Champions
+1054,13756.0,Champions
+1055,13758.0,Champions
+1056,13759.0,Loyal
+1057,13760.0,At risk
+1058,13761.0,Loyal
+1059,13762.0,Lost / dormant
+1060,13763.0,At risk
+1061,13764.0,At risk
+1062,13767.0,Champions
+1063,13769.0,Champions
+1064,13771.0,At risk
+1065,13772.0,Champions
+1066,13774.0,At risk
+1067,13777.0,Champions
+1068,13778.0,At risk
+1069,13780.0,Loyal
+1070,13781.0,Lost / dormant
+1071,13782.0,Champions
+1072,13784.0,Champions
+1073,13786.0,Lost / dormant
+1074,13787.0,At risk
+1075,13790.0,Recent / promising
+1076,13791.0,At risk
+1077,13792.0,At risk
+1078,13798.0,Champions
+1079,13799.0,At risk
+1080,13800.0,Lost / dormant
+1081,13801.0,At risk
+1082,13802.0,At risk
+1083,13803.0,Lost / dormant
+1084,13804.0,Champions
+1085,13805.0,At risk
+1086,13806.0,At risk
+1087,13807.0,Lost / dormant
+1088,13808.0,Champions
+1089,13809.0,Lost / dormant
+1090,13810.0,Champions
+1091,13811.0,Lost / dormant
+1092,13812.0,Loyal
+1093,13813.0,Champions
+1094,13814.0,At risk
+1095,13815.0,Champions
+1096,13816.0,Loyal
+1097,13817.0,Loyal
+1098,13819.0,Lost / dormant
+1099,13821.0,Lost / dormant
+1100,13822.0,Loyal
+1101,13823.0,Loyal
+1102,13824.0,Champions
+1103,13826.0,Lost / dormant
+1104,13827.0,At risk
+1105,13828.0,Recent / promising
+1106,13829.0,Unattributed (no CustomerID)
+1107,13831.0,Champions
+1108,13832.0,Recent / promising
+1109,13833.0,Lost / dormant
+1110,13835.0,Champions
+1111,13837.0,Lost / dormant
+1112,13838.0,Champions
+1113,13841.0,Lost / dormant
+1114,13842.0,At risk
+1115,13844.0,Recent / promising
+1116,13845.0,At risk
+1117,13846.0,Champions
+1118,13848.0,At risk
+1119,13849.0,At risk
+1120,13850.0,At risk
+1121,13851.0,At risk
+1122,13853.0,At risk
+1123,13854.0,Champions
+1124,13856.0,Lost / dormant
+1125,13858.0,At risk
+1126,13859.0,Lost / dormant
+1127,13860.0,Champions
+1128,13862.0,Champions
+1129,13863.0,Lost / dormant
+1130,13865.0,At risk
+1131,13866.0,At risk
+1132,13867.0,Champions
+1133,13868.0,Loyal
+1134,13869.0,At risk
+1135,13870.0,Champions
+1136,13871.0,Champions
+1137,13873.0,At risk
+1138,13874.0,Lost / dormant
+1139,13875.0,At risk
+1140,13876.0,At risk
+1141,13877.0,At risk
+1142,13878.0,At risk
+1143,13880.0,Champions
+1144,13881.0,Champions
+1145,13882.0,Champions
+1146,13883.0,Champions
+1147,13884.0,Champions
+1148,13885.0,Lost / dormant
+1149,13886.0,At risk
+1150,13887.0,Lost / dormant
+1151,13888.0,At risk
+1152,13889.0,At risk
+1153,13890.0,Champions
+1154,13892.0,Loyal
+1155,13893.0,Lost / dormant
+1156,13894.0,Loyal
+1157,13895.0,Champions
+1158,13897.0,Recent / promising
+1159,13898.0,Lost / dormant
+1160,13899.0,Loyal
+1161,13900.0,Lost / dormant
+1162,13901.0,At risk
+1163,13904.0,Loyal
+1164,13908.0,At risk
+1165,13911.0,At risk
+1166,13914.0,Loyal
+1167,13917.0,Loyal
+1168,13918.0,Loyal
+1169,13919.0,At risk
+1170,13922.0,Lost / dormant
+1171,13923.0,At risk
+1172,13924.0,Champions
+1173,13925.0,At risk
+1174,13926.0,Recent / promising
+1175,13927.0,At risk
+1176,13928.0,Loyal
+1177,13929.0,Lost / dormant
+1178,13930.0,At risk
+1179,13931.0,At risk
+1180,13932.0,Lost / dormant
+1181,13933.0,At risk
+1182,13934.0,Lost / dormant
+1183,13936.0,Lost / dormant
+1184,13937.0,Lost / dormant
+1185,13938.0,Recent / promising
+1186,13939.0,Loyal
+1187,13940.0,Champions
+1188,13941.0,Champions
+1189,13946.0,At risk
+1190,13947.0,At risk
+1191,13948.0,Lost / dormant
+1192,13949.0,Champions
+1193,13950.0,Champions
+1194,13951.0,Lost / dormant
+1195,13952.0,Lost / dormant
+1196,13953.0,Champions
+1197,13954.0,Loyal
+1198,13955.0,Lost / dormant
+1199,13956.0,Champions
+1200,13958.0,Unattributed (no CustomerID)
+1201,13959.0,At risk
+1202,13960.0,Loyal
+1203,13962.0,Loyal
+1204,13963.0,Lost / dormant
+1205,13967.0,Lost / dormant
+1206,13969.0,Champions
+1207,13971.0,Champions
+1208,13972.0,At risk
+1209,13973.0,Lost / dormant
+1210,13974.0,Recent / promising
+1211,13975.0,Champions
+1212,13976.0,Lost / dormant
+1213,13978.0,Loyal
+1214,13979.0,At risk
+1215,13980.0,At risk
+1216,13982.0,Champions
+1217,13983.0,Champions
+1218,13984.0,Champions
+1219,13985.0,Champions
+1220,13986.0,Recent / promising
+1221,13988.0,Champions
+1222,13989.0,At risk
+1223,13990.0,Lost / dormant
+1224,13991.0,Champions
+1225,13992.0,Recent / promising
+1226,13993.0,Champions
+1227,13994.0,Champions
+1228,13995.0,Champions
+1229,13999.0,Champions
+1230,14000.0,Lost / dormant
+1231,14001.0,Champions
+1232,14002.0,At risk
+1233,14004.0,Champions
+1234,14005.0,Champions
+1235,14006.0,At risk
+1236,14009.0,Lost / dormant
+1237,14012.0,Lost / dormant
+1238,14013.0,At risk
+1239,14014.0,At risk
+1240,14015.0,At risk
+1241,14016.0,Lost / dormant
+1242,14019.0,Champions
+1243,14020.0,Loyal
+1244,14021.0,Lost / dormant
+1245,14022.0,Lost / dormant
+1246,14023.0,Loyal
+1247,14024.0,At risk
+1248,14027.0,At risk
+1249,14029.0,At risk
+1250,14030.0,Champions
+1251,14031.0,Champions
+1252,14032.0,Champions
+1253,14034.0,Loyal
+1254,14035.0,Champions
+1255,14036.0,Lost / dormant
+1256,14037.0,Lost / dormant
+1257,14038.0,At risk
+1258,14039.0,Recent / promising
+1259,14040.0,Champions
+1260,14041.0,Lost / dormant
+1261,14044.0,Loyal
+1262,14045.0,At risk
+1263,14046.0,Lost / dormant
+1264,14047.0,Champions
+1265,14048.0,Lost / dormant
+1266,14049.0,Champions
+1267,14050.0,Loyal
+1268,14051.0,Champions
+1269,14052.0,Recent / promising
+1270,14053.0,At risk
+1271,14054.0,At risk
+1272,14055.0,At risk
+1273,14056.0,Champions
+1274,14057.0,Champions
+1275,14059.0,Lost / dormant
+1276,14060.0,Champions
+1277,14062.0,Champions
+1278,14064.0,Champions
+1279,14066.0,Lost / dormant
+1280,14067.0,At risk
+1281,14068.0,Lost / dormant
+1282,14071.0,Champions
+1283,14073.0,Recent / promising
+1284,14075.0,Champions
+1285,14076.0,At risk
+1286,14077.0,Loyal
+1287,14078.0,At risk
+1288,14079.0,At risk
+1289,14080.0,Recent / promising
+1290,14081.0,Lost / dormant
+1291,14082.0,Lost / dormant
+1292,14083.0,Champions
+1293,14085.0,Champions
+1294,14087.0,Recent / promising
+1295,14088.0,Champions
+1296,14089.0,At risk
+1297,14090.0,Lost / dormant
+1298,14092.0,Champions
+1299,14093.0,Recent / promising
+1300,14096.0,Champions
+1301,14098.0,Recent / promising
+1302,14099.0,Champions
+1303,14100.0,At risk
+1304,14101.0,At risk
+1305,14102.0,Champions
+1306,14104.0,Lost / dormant
+1307,14105.0,Lost / dormant
+1308,14107.0,At risk
+1309,14108.0,Loyal
+1310,14109.0,At risk
+1311,14110.0,Champions
+1312,14111.0,Champions
+1313,14112.0,Champions
+1314,14113.0,Champions
+1315,14114.0,Lost / dormant
+1316,14116.0,Champions
+1317,14117.0,Lost / dormant
+1318,14119.0,Unattributed (no CustomerID)
+1319,14121.0,Champions
+1320,14124.0,At risk
+1321,14125.0,Champions
+1322,14126.0,Champions
+1323,14127.0,At risk
+1324,14128.0,At risk
+1325,14129.0,Champions
+1326,14130.0,Lost / dormant
+1327,14132.0,Champions
+1328,14133.0,At risk
+1329,14135.0,Champions
+1330,14138.0,Loyal
+1331,14139.0,Recent / promising
+1332,14140.0,Loyal
+1333,14141.0,Champions
+1334,14142.0,Lost / dormant
+1335,14143.0,At risk
+1336,14145.0,Champions
+1337,14146.0,Champions
+1338,14147.0,At risk
+1339,14148.0,Lost / dormant
+1340,14149.0,Lost / dormant
+1341,14150.0,Loyal
+1342,14152.0,At risk
+1343,14154.0,Lost / dormant
+1344,14155.0,Lost / dormant
+1345,14156.0,Champions
+1346,14157.0,Loyal
+1347,14158.0,Recent / promising
+1348,14159.0,Champions
+1349,14161.0,Lost / dormant
+1350,14162.0,Lost / dormant
+1351,14163.0,At risk
+1352,14164.0,At risk
+1353,14165.0,Lost / dormant
+1354,14167.0,Loyal
+1355,14171.0,At risk
+1356,14173.0,Loyal
+1357,14174.0,Recent / promising
+1358,14175.0,At risk
+1359,14176.0,Lost / dormant
+1360,14177.0,At risk
+1361,14178.0,Champions
+1362,14179.0,Loyal
+1363,14180.0,Champions
+1364,14184.0,At risk
+1365,14185.0,Lost / dormant
+1366,14188.0,Champions
+1367,14189.0,Champions
+1368,14191.0,Champions
+1369,14193.0,At risk
+1370,14194.0,Champions
+1371,14195.0,Lost / dormant
+1372,14196.0,At risk
+1373,14198.0,Champions
+1374,14199.0,Lost / dormant
+1375,14201.0,At risk
+1376,14204.0,Recent / promising
+1377,14205.0,Loyal
+1378,14206.0,Lost / dormant
+1379,14208.0,At risk
+1380,14209.0,Champions
+1381,14210.0,At risk
+1382,14211.0,At risk
+1383,14212.0,At risk
+1384,14213.0,Unattributed (no CustomerID)
+1385,14214.0,Champions
+1386,14215.0,Champions
+1387,14216.0,Champions
+1388,14217.0,Champions
+1389,14218.0,Recent / promising
+1390,14219.0,Recent / promising
+1391,14220.0,Lost / dormant
+1392,14221.0,Champions
+1393,14222.0,Lost / dormant
+1394,14223.0,At risk
+1395,14224.0,At risk
+1396,14226.0,Champions
+1397,14227.0,Champions
+1398,14229.0,At risk
+1399,14231.0,Lost / dormant
+1400,14232.0,Champions
+1401,14233.0,Champions
+1402,14234.0,Champions
+1403,14235.0,At risk
+1404,14236.0,At risk
+1405,14237.0,Lost / dormant
+1406,14238.0,Lost / dormant
+1407,14239.0,Champions
+1408,14240.0,Loyal
+1409,14241.0,Lost / dormant
+1410,14242.0,Lost / dormant
+1411,14243.0,Champions
+1412,14245.0,Lost / dormant
+1413,14246.0,At risk
+1414,14247.0,Lost / dormant
+1415,14248.0,Lost / dormant
+1416,14250.0,Champions
+1417,14251.0,Champions
+1418,14256.0,Lost / dormant
+1419,14257.0,At risk
+1420,14258.0,Champions
+1421,14259.0,At risk
+1422,14261.0,Loyal
+1423,14262.0,Champions
+1424,14264.0,Lost / dormant
+1425,14265.0,At risk
+1426,14267.0,Lost / dormant
+1427,14270.0,Lost / dormant
+1428,14271.0,Lost / dormant
+1429,14272.0,At risk
+1430,14273.0,Loyal
+1431,14276.0,At risk
+1432,14277.0,Champions
+1433,14280.0,Lost / dormant
+1434,14282.0,Champions
+1435,14284.0,Loyal
+1436,14285.0,Champions
+1437,14286.0,Champions
+1438,14287.0,Loyal
+1439,14288.0,Lost / dormant
+1440,14289.0,Champions
+1441,14290.0,Champions
+1442,14291.0,Champions
+1443,14292.0,Champions
+1444,14293.0,Champions
+1445,14295.0,Recent / promising
+1446,14297.0,Champions
+1447,14298.0,Champions
+1448,14299.0,Champions
+1449,14300.0,Recent / promising
+1450,14301.0,At risk
+1451,14304.0,Lost / dormant
+1452,14305.0,At risk
+1453,14306.0,Loyal
+1454,14307.0,At risk
+1455,14309.0,Champions
+1456,14311.0,Lost / dormant
+1457,14312.0,Champions
+1458,14314.0,At risk
+1459,14315.0,Champions
+1460,14317.0,At risk
+1461,14320.0,Lost / dormant
+1462,14321.0,Champions
+1463,14323.0,At risk
+1464,14326.0,Lost / dormant
+1465,14327.0,Lost / dormant
+1466,14329.0,Champions
+1467,14331.0,At risk
+1468,14332.0,Champions
+1469,14333.0,At risk
+1470,14334.0,Champions
+1471,14335.0,Loyal
+1472,14336.0,Champions
+1473,14338.0,Lost / dormant
+1474,14339.0,Lost / dormant
+1475,14340.0,Lost / dormant
+1476,14341.0,Champions
+1477,14342.0,Loyal
+1478,14344.0,At risk
+1479,14345.0,Recent / promising
+1480,14346.0,At risk
+1481,14348.0,Lost / dormant
+1482,14349.0,Recent / promising
+1483,14350.0,Lost / dormant
+1484,14351.0,Lost / dormant
+1485,14352.0,Lost / dormant
+1486,14353.0,Lost / dormant
+1487,14354.0,Loyal
+1488,14355.0,Lost / dormant
+1489,14356.0,At risk
+1490,14357.0,Recent / promising
+1491,14359.0,Champions
+1492,14360.0,Champions
+1493,14362.0,Recent / promising
+1494,14364.0,At risk
+1495,14367.0,Champions
+1496,14368.0,Lost / dormant
+1497,14371.0,Lost / dormant
+1498,14373.0,Lost / dormant
+1499,14375.0,Lost / dormant
+1500,14377.0,Lost / dormant
+1501,14379.0,Loyal
+1502,14381.0,At risk
+1503,14382.0,Recent / promising
+1504,14383.0,Champions
+1505,14385.0,Loyal
+1506,14386.0,Lost / dormant
+1507,14387.0,Champions
+1508,14388.0,Champions
+1509,14389.0,At risk
+1510,14390.0,Champions
+1511,14393.0,Lost / dormant
+1512,14395.0,Champions
+1513,14396.0,At risk
+1514,14397.0,Champions
+1515,14400.0,Lost / dormant
+1516,14401.0,Champions
+1517,14403.0,At risk
+1518,14404.0,Champions
+1519,14406.0,At risk
+1520,14407.0,At risk
+1521,14408.0,Champions
+1522,14409.0,At risk
+1523,14410.0,At risk
+1524,14411.0,Lost / dormant
+1525,14412.0,Loyal
+1526,14413.0,Lost / dormant
+1527,14414.0,At risk
+1528,14415.0,Champions
+1529,14416.0,Loyal
+1530,14418.0,Champions
+1531,14419.0,Champions
+1532,14420.0,At risk
+1533,14421.0,At risk
+1534,14422.0,Champions
+1535,14423.0,Lost / dormant
+1536,14424.0,Recent / promising
+1537,14426.0,Champions
+1538,14427.0,Loyal
+1539,14428.0,Champions
+1540,14431.0,Lost / dormant
+1541,14432.0,Champions
+1542,14434.0,Champions
+1543,14436.0,At risk
+1544,14437.0,Lost / dormant
+1545,14438.0,Lost / dormant
+1546,14439.0,Lost / dormant
+1547,14440.0,Champions
+1548,14441.0,Champions
+1549,14442.0,Lost / dormant
+1550,14443.0,At risk
+1551,14446.0,Champions
+1552,14447.0,Champions
+1553,14448.0,Loyal
+1554,14449.0,Champions
+1555,14450.0,Lost / dormant
+1556,14451.0,At risk
+1557,14452.0,Loyal
+1558,14453.0,Lost / dormant
+1559,14456.0,Champions
+1560,14457.0,Lost / dormant
+1561,14459.0,Lost / dormant
+1562,14460.0,At risk
+1563,14461.0,Lost / dormant
+1564,14462.0,At risk
+1565,14463.0,At risk
+1566,14465.0,Lost / dormant
+1567,14466.0,Champions
+1568,14467.0,Loyal
+1569,14470.0,Loyal
+1570,14472.0,At risk
+1571,14473.0,At risk
+1572,14474.0,Recent / promising
+1573,14475.0,At risk
+1574,14476.0,Lost / dormant
+1575,14477.0,Champions
+1576,14479.0,Lost / dormant
+1577,14480.0,Recent / promising
+1578,14481.0,Lost / dormant
+1579,14482.0,Champions
+1580,14483.0,Lost / dormant
+1581,14484.0,Recent / promising
+1582,14485.0,Recent / promising
+1583,14487.0,Champions
+1584,14488.0,At risk
+1585,14489.0,Lost / dormant
+1586,14491.0,Lost / dormant
+1587,14493.0,Champions
+1588,14494.0,Recent / promising
+1589,14495.0,Loyal
+1590,14496.0,Lost / dormant
+1591,14497.0,Lost / dormant
+1592,14498.0,Champions
+1593,14499.0,Champions
+1594,14500.0,At risk
+1595,14501.0,Lost / dormant
+1596,14502.0,Champions
+1597,14503.0,Champions
+1598,14504.0,Champions
+1599,14505.0,Champions
+1600,14506.0,Champions
+1601,14507.0,Champions
+1602,14508.0,Loyal
+1603,14511.0,Champions
+1604,14512.0,Lost / dormant
+1605,14513.0,At risk
+1606,14514.0,At risk
+1607,14515.0,Champions
+1608,14517.0,Loyal
+1609,14518.0,At risk
+1610,14520.0,Loyal
+1611,14522.0,Champions
+1612,14523.0,At risk
+1613,14524.0,Champions
+1614,14525.0,Champions
+1615,14527.0,Champions
+1616,14528.0,Recent / promising
+1617,14529.0,At risk
+1618,14530.0,Champions
+1619,14532.0,Lost / dormant
+1620,14533.0,Champions
+1621,14534.0,Champions
+1622,14535.0,At risk
+1623,14536.0,Lost / dormant
+1624,14537.0,At risk
+1625,14538.0,At risk
+1626,14539.0,Loyal
+1627,14540.0,Champions
+1628,14541.0,At risk
+1629,14542.0,Lost / dormant
+1630,14543.0,Champions
+1631,14544.0,Loyal
+1632,14546.0,Champions
+1633,14547.0,Champions
+1634,14548.0,Lost / dormant
+1635,14549.0,Lost / dormant
+1636,14550.0,Loyal
+1637,14551.0,Loyal
+1638,14552.0,Lost / dormant
+1639,14553.0,Champions
+1640,14554.0,Champions
+1641,14555.0,At risk
+1642,14557.0,At risk
+1643,14560.0,Champions
+1644,14561.0,At risk
+1645,14562.0,Champions
+1646,14565.0,At risk
+1647,14566.0,At risk
+1648,14567.0,At risk
+1649,14569.0,Recent / promising
+1650,14570.0,Lost / dormant
+1651,14572.0,Champions
+1652,14573.0,Lost / dormant
+1653,14576.0,Lost / dormant
+1654,14577.0,Champions
+1655,14578.0,Recent / promising
+1656,14581.0,Recent / promising
+1657,14582.0,Recent / promising
+1658,14583.0,Champions
+1659,14584.0,Lost / dormant
+1660,14585.0,Recent / promising
+1661,14586.0,Lost / dormant
+1662,14587.0,Champions
+1663,14589.0,Lost / dormant
+1664,14591.0,Champions
+1665,14592.0,Loyal
+1666,14593.0,Loyal
+1667,14594.0,Loyal
+1668,14595.0,Champions
+1669,14597.0,Loyal
+1670,14598.0,Recent / promising
+1671,14600.0,Lost / dormant
+1672,14601.0,Recent / promising
+1673,14603.0,Lost / dormant
+1674,14606.0,Champions
+1675,14607.0,Champions
+1676,14608.0,Champions
+1677,14609.0,At risk
+1678,14616.0,Lost / dormant
+1679,14618.0,Loyal
+1680,14619.0,Lost / dormant
+1681,14620.0,Lost / dormant
+1682,14621.0,Champions
+1683,14622.0,Lost / dormant
+1684,14623.0,Champions
+1685,14624.0,At risk
+1686,14625.0,Lost / dormant
+1687,14626.0,Champions
+1688,14627.0,Unattributed (no CustomerID)
+1689,14628.0,At risk
+1690,14629.0,Loyal
+1691,14631.0,Champions
+1692,14632.0,Lost / dormant
+1693,14633.0,Lost / dormant
+1694,14636.0,Loyal
+1695,14638.0,Recent / promising
+1696,14639.0,At risk
+1697,14640.0,Champions
+1698,14641.0,Recent / promising
+1699,14642.0,At risk
+1700,14643.0,Lost / dormant
+1701,14644.0,At risk
+1702,14645.0,Lost / dormant
+1703,14646.0,Champions
+1704,14647.0,Lost / dormant
+1705,14649.0,Champions
+1706,14651.0,At risk
+1707,14652.0,At risk
+1708,14653.0,Champions
+1709,14655.0,Champions
+1710,14656.0,Lost / dormant
+1711,14657.0,Champions
+1712,14658.0,Loyal
+1713,14659.0,Champions
+1714,14660.0,At risk
+1715,14661.0,Recent / promising
+1716,14662.0,Champions
+1717,14664.0,Loyal
+1718,14665.0,At risk
+1719,14666.0,Recent / promising
+1720,14667.0,Champions
+1721,14669.0,Lost / dormant
+1722,14670.0,Lost / dormant
+1723,14672.0,Lost / dormant
+1724,14673.0,Champions
+1725,14675.0,Recent / promising
+1726,14676.0,Champions
+1727,14679.0,Unattributed (no CustomerID)
+1728,14680.0,Champions
+1729,14681.0,At risk
+1730,14682.0,Lost / dormant
+1731,14684.0,Champions
+1732,14687.0,At risk
+1733,14688.0,Champions
+1734,14689.0,Lost / dormant
+1735,14690.0,Loyal
+1736,14691.0,Champions
+1737,14692.0,At risk
+1738,14693.0,Lost / dormant
+1739,14696.0,Champions
+1740,14697.0,Lost / dormant
+1741,14698.0,Champions
+1742,14699.0,Lost / dormant
+1743,14700.0,Champions
+1744,14701.0,Champions
+1745,14702.0,Champions
+1746,14703.0,Recent / promising
+1747,14704.0,Champions
+1748,14705.0,Lost / dormant
+1749,14708.0,Champions
+1750,14709.0,Champions
+1751,14710.0,Loyal
+1752,14711.0,Champions
+1753,14712.0,Champions
+1754,14713.0,Champions
+1755,14714.0,Recent / promising
+1756,14715.0,Champions
+1757,14716.0,Loyal
+1758,14719.0,Champions
+1759,14720.0,Loyal
+1760,14722.0,Lost / dormant
+1761,14723.0,Champions
+1762,14725.0,Recent / promising
+1763,14727.0,Lost / dormant
+1764,14729.0,Lost / dormant
+1765,14730.0,Champions
+1766,14731.0,Loyal
+1767,14732.0,Champions
+1768,14733.0,Champions
+1769,14735.0,Champions
+1770,14737.0,Champions
+1771,14738.0,Champions
+1772,14739.0,Champions
+1773,14740.0,Lost / dormant
+1774,14741.0,Champions
+1775,14744.0,Champions
+1776,14745.0,At risk
+1777,14747.0,Lost / dormant
+1778,14748.0,Champions
+1779,14752.0,Recent / promising
+1780,14753.0,At risk
+1781,14754.0,Loyal
+1782,14755.0,Champions
+1783,14756.0,Recent / promising
+1784,14757.0,At risk
+1785,14758.0,Lost / dormant
+1786,14759.0,Champions
+1787,14760.0,Lost / dormant
+1788,14761.0,At risk
+1789,14762.0,Lost / dormant
+1790,14764.0,Recent / promising
+1791,14765.0,Loyal
+1792,14766.0,Champions
+1793,14768.0,Loyal
+1794,14769.0,Champions
+1795,14770.0,Lost / dormant
+1796,14772.0,At risk
+1797,14775.0,At risk
+1798,14776.0,Champions
+1799,14777.0,Unattributed (no CustomerID)
+1800,14778.0,At risk
+1801,14779.0,Lost / dormant
+1802,14780.0,At risk
+1803,14782.0,Lost / dormant
+1804,14784.0,Loyal
+1805,14785.0,Loyal
+1806,14788.0,Loyal
+1807,14789.0,Recent / promising
+1808,14790.0,Champions
+1809,14792.0,At risk
+1810,14793.0,Recent / promising
+1811,14794.0,Champions
+1812,14795.0,Lost / dormant
+1813,14796.0,Champions
+1814,14798.0,At risk
+1815,14799.0,Recent / promising
+1816,14800.0,Champions
+1817,14801.0,At risk
+1818,14803.0,Lost / dormant
+1819,14804.0,Recent / promising
+1820,14805.0,Loyal
+1821,14806.0,At risk
+1822,14808.0,Champions
+1823,14810.0,Champions
+1824,14813.0,Lost / dormant
+1825,14815.0,Loyal
+1826,14816.0,Lost / dormant
+1827,14817.0,Lost / dormant
+1828,14818.0,At risk
+1829,14819.0,At risk
+1830,14820.0,Loyal
+1831,14821.0,Lost / dormant
+1832,14823.0,Lost / dormant
+1833,14824.0,Champions
+1834,14825.0,Champions
+1835,14828.0,Lost / dormant
+1836,14829.0,Champions
+1837,14830.0,At risk
+1838,14834.0,Champions
+1839,14836.0,Loyal
+1840,14837.0,At risk
+1841,14840.0,Lost / dormant
+1842,14841.0,At risk
+1843,14842.0,Champions
+1844,14844.0,At risk
+1845,14847.0,Lost / dormant
+1846,14849.0,Champions
+1847,14850.0,Lost / dormant
+1848,14851.0,Loyal
+1849,14852.0,At risk
+1850,14853.0,Loyal
+1851,14854.0,At risk
+1852,14855.0,At risk
+1853,14856.0,Champions
+1854,14857.0,At risk
+1855,14859.0,Champions
+1856,14860.0,Recent / promising
+1857,14861.0,At risk
+1858,14862.0,Loyal
+1859,14863.0,Recent / promising
+1860,14865.0,Loyal
+1861,14866.0,Champions
+1862,14867.0,Lost / dormant
+1863,14868.0,Champions
+1864,14869.0,Loyal
+1865,14870.0,Lost / dormant
+1866,14871.0,Loyal
+1867,14873.0,Lost / dormant
+1868,14875.0,At risk
+1869,14878.0,Champions
+1870,14880.0,At risk
+1871,14881.0,Recent / promising
+1872,14882.0,Loyal
+1873,14883.0,Champions
+1874,14885.0,At risk
+1875,14886.0,Lost / dormant
+1876,14887.0,At risk
+1877,14888.0,Lost / dormant
+1878,14889.0,Lost / dormant
+1879,14890.0,Lost / dormant
+1880,14891.0,Lost / dormant
+1881,14893.0,Loyal
+1882,14894.0,At risk
+1883,14895.0,Champions
+1884,14896.0,Lost / dormant
+1885,14897.0,Champions
+1886,14898.0,Champions
+1887,14901.0,Champions
+1888,14902.0,Recent / promising
+1889,14903.0,Champions
+1890,14904.0,Loyal
+1891,14905.0,Lost / dormant
+1892,14907.0,Champions
+1893,14908.0,At risk
+1894,14910.0,Loyal
+1895,14911.0,Champions
+1896,14912.0,Loyal
+1897,14913.0,Champions
+1898,14915.0,At risk
+1899,14916.0,At risk
+1900,14918.0,At risk
+1901,14920.0,Lost / dormant
+1902,14921.0,Loyal
+1903,14923.0,Recent / promising
+1904,14924.0,Lost / dormant
+1905,14929.0,Recent / promising
+1906,14930.0,At risk
+1907,14931.0,Champions
+1908,14932.0,Lost / dormant
+1909,14934.0,At risk
+1910,14935.0,Lost / dormant
+1911,14936.0,Champions
+1912,14937.0,At risk
+1913,14944.0,Champions
+1914,14946.0,Recent / promising
+1915,14947.0,At risk
+1916,14948.0,Champions
+1917,14950.0,Recent / promising
+1918,14951.0,At risk
+1919,14952.0,At risk
+1920,14953.0,Recent / promising
+1921,14954.0,Recent / promising
+1922,14957.0,Lost / dormant
+1923,14958.0,Lost / dormant
+1924,14959.0,At risk
+1925,14960.0,Loyal
+1926,14961.0,Champions
+1927,14962.0,Lost / dormant
+1928,14963.0,Champions
+1929,14964.0,Lost / dormant
+1930,14965.0,At risk
+1931,14966.0,Recent / promising
+1932,14967.0,Recent / promising
+1933,14968.0,Recent / promising
+1934,14970.0,At risk
+1935,14971.0,Champions
+1936,14972.0,At risk
+1937,14973.0,At risk
+1938,14974.0,Recent / promising
+1939,14975.0,At risk
+1940,14976.0,At risk
+1941,14978.0,At risk
+1942,14981.0,Lost / dormant
+1943,14984.0,Loyal
+1944,14985.0,Lost / dormant
+1945,14987.0,Loyal
+1946,14988.0,Lost / dormant
+1947,14995.0,Loyal
+1948,14997.0,Loyal
+1949,14998.0,Lost / dormant
+1950,15000.0,Recent / promising
+1951,15002.0,At risk
+1952,15004.0,Lost / dormant
+1953,15005.0,Champions
+1954,15006.0,Recent / promising
+1955,15007.0,Lost / dormant
+1956,15009.0,Champions
+1957,15010.0,Recent / promising
+1958,15012.0,At risk
+1959,15014.0,Loyal
+1960,15016.0,Lost / dormant
+1961,15017.0,Recent / promising
+1962,15018.0,Loyal
+1963,15019.0,Lost / dormant
+1964,15021.0,Champions
+1965,15022.0,Champions
+1966,15023.0,Champions
+1967,15024.0,Champions
+1968,15025.0,Recent / promising
+1969,15026.0,At risk
+1970,15027.0,Champions
+1971,15028.0,Loyal
+1972,15030.0,At risk
+1973,15031.0,Loyal
+1974,15032.0,Lost / dormant
+1975,15033.0,Champions
+1976,15034.0,Champions
+1977,15035.0,At risk
+1978,15036.0,At risk
+1979,15038.0,At risk
+1980,15039.0,Champions
+1981,15041.0,Lost / dormant
+1982,15042.0,Lost / dormant
+1983,15043.0,Recent / promising
+1984,15044.0,Champions
+1985,15045.0,Lost / dormant
+1986,15046.0,Champions
+1987,15047.0,Lost / dormant
+1988,15048.0,At risk
+1989,15049.0,Lost / dormant
+1990,15050.0,Champions
+1991,15051.0,Champions
+1992,15052.0,Lost / dormant
+1993,15053.0,Champions
+1994,15054.0,Loyal
+1995,15057.0,Lost / dormant
+1996,15058.0,Champions
+1997,15059.0,Champions
+1998,15060.0,Loyal
+1999,15061.0,Champions
+2000,15062.0,At risk
+2001,15063.0,Lost / dormant
+2002,15065.0,Champions
+2003,15066.0,At risk
+2004,15067.0,At risk
+2005,15068.0,Loyal
+2006,15069.0,Lost / dormant
+2007,15070.0,Lost / dormant
+2008,15071.0,At risk
+2009,15073.0,Champions
+2010,15074.0,At risk
+2011,15075.0,At risk
+2012,15076.0,Lost / dormant
+2013,15078.0,Champions
+2014,15079.0,Lost / dormant
+2015,15081.0,Loyal
+2016,15083.0,Lost / dormant
+2017,15087.0,Lost / dormant
+2018,15088.0,Loyal
+2019,15089.0,Champions
+2020,15090.0,Lost / dormant
+2021,15091.0,At risk
+2022,15092.0,Lost / dormant
+2023,15093.0,Champions
+2024,15095.0,At risk
+2025,15096.0,Recent / promising
+2026,15097.0,Recent / promising
+2027,15098.0,Lost / dormant
+2028,15099.0,At risk
+2029,15100.0,Lost / dormant
+2030,15101.0,Loyal
+2031,15103.0,Loyal
+2032,15104.0,Lost / dormant
+2033,15105.0,Champions
+2034,15106.0,Champions
+2035,15107.0,Lost / dormant
+2036,15108.0,At risk
+2037,15109.0,Lost / dormant
+2038,15110.0,Champions
+2039,15111.0,Champions
+2040,15113.0,Champions
+2041,15114.0,Champions
+2042,15115.0,Recent / promising
+2043,15116.0,Champions
+2044,15117.0,Champions
+2045,15118.0,At risk
+2046,15119.0,Lost / dormant
+2047,15120.0,At risk
+2048,15121.0,Loyal
+2049,15122.0,At risk
+2050,15123.0,Loyal
+2051,15124.0,Loyal
+2052,15125.0,Champions
+2053,15127.0,At risk
+2054,15128.0,At risk
+2055,15129.0,Champions
+2056,15130.0,Lost / dormant
+2057,15132.0,Champions
+2058,15133.0,At risk
+2059,15134.0,Champions
+2060,15135.0,Lost / dormant
+2061,15136.0,Champions
+2062,15139.0,Lost / dormant
+2063,15140.0,At risk
+2064,15142.0,Recent / promising
+2065,15143.0,Lost / dormant
+2066,15144.0,Champions
+2067,15145.0,Champions
+2068,15146.0,Lost / dormant
+2069,15147.0,Lost / dormant
+2070,15148.0,Recent / promising
+2071,15149.0,At risk
+2072,15150.0,Champions
+2073,15152.0,Champions
+2074,15153.0,Recent / promising
+2075,15154.0,At risk
+2076,15156.0,Champions
+2077,15157.0,Champions
+2078,15158.0,Recent / promising
+2079,15159.0,Champions
+2080,15160.0,Lost / dormant
+2081,15163.0,Loyal
+2082,15164.0,At risk
+2083,15165.0,Lost / dormant
+2084,15167.0,Lost / dormant
+2085,15168.0,Recent / promising
+2086,15171.0,Lost / dormant
+2087,15172.0,Champions
+2088,15174.0,Lost / dormant
+2089,15175.0,At risk
+2090,15178.0,Lost / dormant
+2091,15179.0,Champions
+2092,15180.0,Lost / dormant
+2093,15181.0,At risk
+2094,15182.0,Lost / dormant
+2095,15184.0,Loyal
+2096,15185.0,At risk
+2097,15186.0,Loyal
+2098,15187.0,Champions
+2099,15189.0,Champions
+2100,15192.0,At risk
+2101,15193.0,At risk
+2102,15194.0,Champions
+2103,15195.0,Recent / promising
+2104,15197.0,Champions
+2105,15198.0,At risk
+2106,15199.0,At risk
+2107,15201.0,At risk
+2108,15203.0,Champions
+2109,15204.0,Lost / dormant
+2110,15205.0,At risk
+2111,15206.0,Loyal
+2112,15208.0,Champions
+2113,15210.0,Lost / dormant
+2114,15211.0,At risk
+2115,15212.0,Lost / dormant
+2116,15213.0,Lost / dormant
+2117,15214.0,Champions
+2118,15215.0,Champions
+2119,15216.0,At risk
+2120,15218.0,Champions
+2121,15219.0,Lost / dormant
+2122,15220.0,At risk
+2123,15221.0,Lost / dormant
+2124,15222.0,Lost / dormant
+2125,15223.0,Lost / dormant
+2126,15224.0,Lost / dormant
+2127,15225.0,Lost / dormant
+2128,15226.0,Lost / dormant
+2129,15227.0,Champions
+2130,15228.0,At risk
+2131,15230.0,Lost / dormant
+2132,15232.0,At risk
+2133,15234.0,Lost / dormant
+2134,15235.0,Lost / dormant
+2135,15236.0,Lost / dormant
+2136,15237.0,Champions
+2137,15238.0,Champions
+2138,15239.0,Loyal
+2139,15240.0,Champions
+2140,15241.0,At risk
+2141,15243.0,At risk
+2142,15244.0,At risk
+2143,15245.0,At risk
+2144,15246.0,Lost / dormant
+2145,15247.0,At risk
+2146,15249.0,Champions
+2147,15251.0,Champions
+2148,15252.0,Loyal
+2149,15253.0,Champions
+2150,15254.0,At risk
+2151,15255.0,At risk
+2152,15256.0,Lost / dormant
+2153,15257.0,Lost / dormant
+2154,15258.0,Lost / dormant
+2155,15260.0,At risk
+2156,15261.0,At risk
+2157,15262.0,Lost / dormant
+2158,15263.0,At risk
+2159,15264.0,At risk
+2160,15265.0,Lost / dormant
+2161,15266.0,Lost / dormant
+2162,15267.0,Champions
+2163,15269.0,Recent / promising
+2164,15270.0,Champions
+2165,15271.0,Champions
+2166,15272.0,At risk
+2167,15274.0,Loyal
+2168,15275.0,Recent / promising
+2169,15276.0,At risk
+2170,15277.0,Recent / promising
+2171,15279.0,Lost / dormant
+2172,15280.0,Lost / dormant
+2173,15281.0,At risk
+2174,15286.0,Recent / promising
+2175,15287.0,Loyal
+2176,15288.0,Champions
+2177,15289.0,Champions
+2178,15290.0,Champions
+2179,15291.0,Champions
+2180,15292.0,Lost / dormant
+2181,15296.0,Champions
+2182,15297.0,Loyal
+2183,15298.0,Champions
+2184,15299.0,At risk
+2185,15300.0,At risk
+2186,15301.0,Champions
+2187,15303.0,Lost / dormant
+2188,15304.0,At risk
+2189,15306.0,At risk
+2190,15307.0,At risk
+2191,15308.0,Lost / dormant
+2192,15311.0,Champions
+2193,15312.0,At risk
+2194,15313.0,At risk
+2195,15314.0,Lost / dormant
+2196,15315.0,At risk
+2197,15316.0,Lost / dormant
+2198,15318.0,Recent / promising
+2199,15319.0,Lost / dormant
+2200,15320.0,Recent / promising
+2201,15321.0,At risk
+2202,15322.0,At risk
+2203,15325.0,At risk
+2204,15326.0,Lost / dormant
+2205,15327.0,At risk
+2206,15329.0,Champions
+2207,15330.0,Loyal
+2208,15332.0,Lost / dormant
+2209,15333.0,Lost / dormant
+2210,15334.0,Lost / dormant
+2211,15335.0,At risk
+2212,15339.0,At risk
+2213,15341.0,At risk
+2214,15342.0,At risk
+2215,15343.0,At risk
+2216,15344.0,Loyal
+2217,15345.0,Recent / promising
+2218,15346.0,Lost / dormant
+2219,15347.0,Lost / dormant
+2220,15348.0,At risk
+2221,15349.0,Lost / dormant
+2222,15350.0,Lost / dormant
+2223,15351.0,Champions
+2224,15353.0,Lost / dormant
+2225,15355.0,Loyal
+2226,15356.0,Champions
+2227,15358.0,Champions
+2228,15360.0,Recent / promising
+2229,15361.0,Lost / dormant
+2230,15363.0,Lost / dormant
+2231,15364.0,At risk
+2232,15365.0,Champions
+2233,15366.0,At risk
+2234,15367.0,At risk
+2235,15368.0,Recent / promising
+2236,15369.0,Unattributed (no CustomerID)
+2237,15370.0,Champions
+2238,15372.0,At risk
+2239,15373.0,Champions
+2240,15374.0,At risk
+2241,15376.0,Champions
+2242,15379.0,Lost / dormant
+2243,15380.0,Champions
+2244,15381.0,Lost / dormant
+2245,15382.0,Champions
+2246,15384.0,Lost / dormant
+2247,15385.0,Recent / promising
+2248,15386.0,Lost / dormant
+2249,15388.0,Lost / dormant
+2250,15389.0,Lost / dormant
+2251,15392.0,Champions
+2252,15393.0,Loyal
+2253,15394.0,Champions
+2254,15395.0,Lost / dormant
+2255,15396.0,At risk
+2256,15397.0,Lost / dormant
+2257,15398.0,Loyal
+2258,15399.0,Champions
+2259,15400.0,At risk
+2260,15402.0,Lost / dormant
+2261,15405.0,Lost / dormant
+2262,15406.0,Loyal
+2263,15407.0,Champions
+2264,15408.0,Lost / dormant
+2265,15410.0,At risk
+2266,15411.0,Champions
+2267,15412.0,Lost / dormant
+2268,15414.0,Champions
+2269,15415.0,Lost / dormant
+2270,15416.0,At risk
+2271,15417.0,At risk
+2272,15419.0,Recent / promising
+2273,15421.0,At risk
+2274,15422.0,Lost / dormant
+2275,15423.0,Recent / promising
+2276,15424.0,Lost / dormant
+2277,15426.0,Champions
+2278,15427.0,Champions
+2279,15428.0,Recent / promising
+2280,15429.0,Loyal
+2281,15432.0,Recent / promising
+2282,15433.0,Lost / dormant
+2283,15434.0,Champions
+2284,15435.0,Recent / promising
+2285,15436.0,Champions
+2286,15437.0,Lost / dormant
+2287,15438.0,At risk
+2288,15440.0,At risk
+2289,15442.0,Lost / dormant
+2290,15443.0,Champions
+2291,15444.0,Loyal
+2292,15445.0,Lost / dormant
+2293,15447.0,Lost / dormant
+2294,15448.0,Lost / dormant
+2295,15449.0,Champions
+2296,15450.0,Recent / promising
+2297,15452.0,Loyal
+2298,15453.0,Champions
+2299,15454.0,Lost / dormant
+2300,15456.0,Lost / dormant
+2301,15457.0,Lost / dormant
+2302,15458.0,Recent / promising
+2303,15460.0,Lost / dormant
+2304,15462.0,At risk
+2305,15463.0,Recent / promising
+2306,15464.0,Lost / dormant
+2307,15465.0,Champions
+2308,15466.0,At risk
+2309,15467.0,Loyal
+2310,15468.0,Loyal
+2311,15469.0,Loyal
+2312,15471.0,Recent / promising
+2313,15472.0,At risk
+2314,15473.0,Champions
+2315,15475.0,At risk
+2316,15478.0,Loyal
+2317,15480.0,At risk
+2318,15482.0,Champions
+2319,15483.0,Lost / dormant
+2320,15484.0,Champions
+2321,15485.0,Champions
+2322,15488.0,At risk
+2323,15489.0,Champions
+2324,15491.0,At risk
+2325,15492.0,Loyal
+2326,15493.0,Champions
+2327,15494.0,Loyal
+2328,15497.0,Loyal
+2329,15498.0,Champions
+2330,15500.0,Champions
+2331,15502.0,Champions
+2332,15503.0,Lost / dormant
+2333,15504.0,At risk
+2334,15505.0,At risk
+2335,15506.0,Champions
+2336,15507.0,Lost / dormant
+2337,15508.0,Lost / dormant
+2338,15510.0,Lost / dormant
+2339,15511.0,Champions
+2340,15512.0,Lost / dormant
+2341,15513.0,Champions
+2342,15514.0,Champions
+2343,15516.0,Loyal
+2344,15517.0,Lost / dormant
+2345,15518.0,At risk
+2346,15520.0,Recent / promising
+2347,15521.0,Champions
+2348,15522.0,Loyal
+2349,15523.0,At risk
+2350,15524.0,Recent / promising
+2351,15525.0,Champions
+2352,15526.0,Loyal
+2353,15527.0,Champions
+2354,15528.0,Lost / dormant
+2355,15529.0,Champions
+2356,15530.0,Champions
+2357,15531.0,Loyal
+2358,15532.0,Champions
+2359,15533.0,Champions
+2360,15535.0,Lost / dormant
+2361,15537.0,Lost / dormant
+2362,15539.0,Recent / promising
+2363,15540.0,Recent / promising
+2364,15541.0,At risk
+2365,15543.0,Lost / dormant
+2366,15544.0,Champions
+2367,15545.0,At risk
+2368,15547.0,Champions
+2369,15549.0,At risk
+2370,15550.0,Loyal
+2371,15551.0,Recent / promising
+2372,15552.0,Lost / dormant
+2373,15553.0,At risk
+2374,15554.0,Lost / dormant
+2375,15555.0,Champions
+2376,15556.0,Recent / promising
+2377,15557.0,Recent / promising
+2378,15561.0,Champions
+2379,15562.0,Lost / dormant
+2380,15563.0,Champions
+2381,15565.0,Loyal
+2382,15567.0,Recent / promising
+2383,15568.0,Champions
+2384,15569.0,At risk
+2385,15570.0,Champions
+2386,15571.0,Loyal
+2387,15572.0,Champions
+2388,15573.0,Loyal
+2389,15574.0,Lost / dormant
+2390,15576.0,Recent / promising
+2391,15577.0,Lost / dormant
+2392,15578.0,Lost / dormant
+2393,15579.0,At risk
+2394,15581.0,At risk
+2395,15582.0,Champions
+2396,15584.0,Champions
+2397,15585.0,Lost / dormant
+2398,15587.0,Champions
+2399,15589.0,Lost / dormant
+2400,15590.0,Unattributed (no CustomerID)
+2401,15592.0,Recent / promising
+2402,15593.0,At risk
+2403,15594.0,Champions
+2404,15596.0,At risk
+2405,15597.0,Recent / promising
+2406,15598.0,At risk
+2407,15599.0,Loyal
+2408,15601.0,Champions
+2409,15602.0,Champions
+2410,15603.0,At risk
+2411,15604.0,At risk
+2412,15605.0,Champions
+2413,15606.0,At risk
+2414,15607.0,Lost / dormant
+2415,15608.0,Champions
+2416,15609.0,Lost / dormant
+2417,15610.0,At risk
+2418,15611.0,Champions
+2419,15612.0,Loyal
+2420,15615.0,Champions
+2421,15618.0,Champions
+2422,15619.0,Recent / promising
+2423,15620.0,At risk
+2424,15621.0,Champions
+2425,15622.0,Champions
+2426,15623.0,At risk
+2427,15624.0,At risk
+2428,15625.0,At risk
+2429,15626.0,At risk
+2430,15628.0,Champions
+2431,15630.0,Loyal
+2432,15632.0,Champions
+2433,15634.0,Recent / promising
+2434,15636.0,At risk
+2435,15637.0,At risk
+2436,15638.0,Unattributed (no CustomerID)
+2437,15639.0,At risk
+2438,15640.0,Champions
+2439,15641.0,At risk
+2440,15643.0,Lost / dormant
+2441,15644.0,Lost / dormant
+2442,15645.0,Recent / promising
+2443,15646.0,Lost / dormant
+2444,15648.0,Lost / dormant
+2445,15649.0,Lost / dormant
+2446,15651.0,Loyal
+2447,15652.0,At risk
+2448,15653.0,At risk
+2449,15654.0,Loyal
+2450,15655.0,Lost / dormant
+2451,15656.0,Champions
+2452,15657.0,Recent / promising
+2453,15658.0,Lost / dormant
+2454,15659.0,Recent / promising
+2455,15660.0,Champions
+2456,15661.0,Lost / dormant
+2457,15663.0,At risk
+2458,15664.0,Recent / promising
+2459,15665.0,Lost / dormant
+2460,15667.0,Recent / promising
+2461,15668.0,Lost / dormant
+2462,15669.0,Champions
+2463,15670.0,Lost / dormant
+2464,15671.0,Champions
+2465,15673.0,At risk
+2466,15674.0,At risk
+2467,15675.0,At risk
+2468,15676.0,Champions
+2469,15677.0,Recent / promising
+2470,15678.0,At risk
+2471,15679.0,Champions
+2472,15680.0,Champions
+2473,15681.0,Champions
+2474,15683.0,At risk
+2475,15687.0,Champions
+2476,15689.0,At risk
+2477,15690.0,Loyal
+2478,15691.0,Lost / dormant
+2479,15692.0,Recent / promising
+2480,15694.0,Champions
+2481,15695.0,Lost / dormant
+2482,15696.0,Champions
+2483,15699.0,Recent / promising
+2484,15700.0,Lost / dormant
+2485,15701.0,Champions
+2486,15703.0,Lost / dormant
+2487,15704.0,At risk
+2488,15705.0,Lost / dormant
+2489,15706.0,At risk
+2490,15707.0,Champions
+2491,15708.0,Champions
+2492,15709.0,Lost / dormant
+2493,15712.0,Champions
+2494,15713.0,Lost / dormant
+2495,15714.0,Loyal
+2496,15716.0,Lost / dormant
+2497,15717.0,Lost / dormant
+2498,15719.0,Champions
+2499,15720.0,Recent / promising
+2500,15721.0,Recent / promising
+2501,15722.0,Champions
+2502,15723.0,Lost / dormant
+2503,15724.0,Lost / dormant
+2504,15725.0,Recent / promising
+2505,15727.0,Champions
+2506,15728.0,Unattributed (no CustomerID)
+2507,15729.0,Lost / dormant
+2508,15730.0,At risk
+2509,15732.0,Lost / dormant
+2510,15733.0,Lost / dormant
+2511,15734.0,At risk
+2512,15737.0,Champions
+2513,15738.0,Champions
+2514,15739.0,At risk
+2515,15740.0,Recent / promising
+2516,15743.0,Champions
+2517,15744.0,At risk
+2518,15745.0,Champions
+2519,15746.0,At risk
+2520,15747.0,Champions
+2521,15748.0,Recent / promising
+2522,15749.0,Lost / dormant
+2523,15750.0,Champions
+2524,15752.0,Champions
+2525,15753.0,Lost / dormant
+2526,15754.0,Loyal
+2527,15755.0,Champions
+2528,15756.0,At risk
+2529,15757.0,At risk
+2530,15758.0,Recent / promising
+2531,15759.0,Lost / dormant
+2532,15762.0,At risk
+2533,15763.0,Loyal
+2534,15764.0,At risk
+2535,15766.0,At risk
+2536,15768.0,At risk
+2537,15769.0,Champions
+2538,15773.0,Recent / promising
+2539,15774.0,At risk
+2540,15775.0,Lost / dormant
+2541,15776.0,At risk
+2542,15777.0,Lost / dormant
+2543,15780.0,Lost / dormant
+2544,15781.0,Loyal
+2545,15782.0,Champions
+2546,15783.0,Recent / promising
+2547,15785.0,Champions
+2548,15786.0,Champions
+2549,15787.0,Champions
+2550,15789.0,Lost / dormant
+2551,15790.0,Recent / promising
+2552,15791.0,Loyal
+2553,15793.0,Champions
+2554,15795.0,Lost / dormant
+2555,15796.0,Champions
+2556,15797.0,At risk
+2557,15799.0,At risk
+2558,15800.0,At risk
+2559,15801.0,Champions
+2560,15802.0,Lost / dormant
+2561,15803.0,Recent / promising
+2562,15804.0,Champions
+2563,15805.0,Champions
+2564,15806.0,Champions
+2565,15807.0,Champions
+2566,15808.0,Lost / dormant
+2567,15809.0,Loyal
+2568,15810.0,At risk
+2569,15811.0,Champions
+2570,15812.0,At risk
+2571,15813.0,Lost / dormant
+2572,15814.0,Champions
+2573,15815.0,At risk
+2574,15819.0,Champions
+2575,15820.0,Lost / dormant
+2576,15821.0,Loyal
+2577,15822.0,Loyal
+2578,15823.0,Lost / dormant
+2579,15825.0,Lost / dormant
+2580,15826.0,At risk
+2581,15827.0,At risk
+2582,15829.0,At risk
+2583,15830.0,Recent / promising
+2584,15831.0,At risk
+2585,15832.0,Lost / dormant
+2586,15834.0,At risk
+2587,15835.0,Champions
+2588,15836.0,Recent / promising
+2589,15837.0,At risk
+2590,15838.0,Champions
+2591,15839.0,Champions
+2592,15840.0,At risk
+2593,15841.0,At risk
+2594,15843.0,Lost / dormant
+2595,15844.0,Recent / promising
+2596,15845.0,Champions
+2597,15847.0,Loyal
+2598,15850.0,Loyal
+2599,15852.0,Lost / dormant
+2600,15853.0,At risk
+2601,15854.0,Champions
+2602,15855.0,At risk
+2603,15856.0,Champions
+2604,15857.0,Recent / promising
+2605,15858.0,Champions
+2606,15860.0,Champions
+2607,15861.0,Champions
+2608,15862.0,Champions
+2609,15863.0,Loyal
+2610,15864.0,Champions
+2611,15865.0,Champions
+2612,15866.0,At risk
+2613,15867.0,Champions
+2614,15869.0,Lost / dormant
+2615,15870.0,Recent / promising
+2616,15872.0,Loyal
+2617,15874.0,At risk
+2618,15877.0,Loyal
+2619,15880.0,Lost / dormant
+2620,15881.0,Lost / dormant
+2621,15882.0,Lost / dormant
+2622,15883.0,Loyal
+2623,15885.0,At risk
+2624,15886.0,At risk
+2625,15888.0,At risk
+2626,15889.0,Lost / dormant
+2627,15891.0,Lost / dormant
+2628,15894.0,Lost / dormant
+2629,15895.0,Lost / dormant
+2630,15897.0,Lost / dormant
+2631,15898.0,Champions
+2632,15899.0,Lost / dormant
+2633,15900.0,Recent / promising
+2634,15901.0,Loyal
+2635,15903.0,Champions
+2636,15904.0,Recent / promising
+2637,15906.0,Champions
+2638,15907.0,Champions
+2639,15909.0,Lost / dormant
+2640,15910.0,Champions
+2641,15912.0,Lost / dormant
+2642,15916.0,Champions
+2643,15917.0,Lost / dormant
+2644,15918.0,Lost / dormant
+2645,15919.0,Loyal
+2646,15920.0,Lost / dormant
+2647,15921.0,Lost / dormant
+2648,15922.0,Lost / dormant
+2649,15923.0,Lost / dormant
+2650,15925.0,Lost / dormant
+2651,15930.0,At risk
+2652,15932.0,Champions
+2653,15933.0,Champions
+2654,15935.0,Lost / dormant
+2655,15937.0,At risk
+2656,15938.0,At risk
+2657,15939.0,At risk
+2658,15940.0,Lost / dormant
+2659,15942.0,At risk
+2660,15944.0,Lost / dormant
+2661,15945.0,Lost / dormant
+2662,15947.0,At risk
+2663,15948.0,Loyal
+2664,15949.0,Loyal
+2665,15950.0,Champions
+2666,15951.0,Loyal
+2667,15952.0,Champions
+2668,15953.0,Champions
+2669,15955.0,Champions
+2670,15957.0,Recent / promising
+2671,15958.0,At risk
+2672,15963.0,Loyal
+2673,15965.0,Champions
+2674,15967.0,Loyal
+2675,15969.0,Loyal
+2676,15970.0,Lost / dormant
+2677,15971.0,Champions
+2678,15973.0,Lost / dormant
+2679,15974.0,Champions
+2680,15975.0,At risk
+2681,15976.0,Lost / dormant
+2682,15977.0,Loyal
+2683,15978.0,At risk
+2684,15980.0,At risk
+2685,15981.0,Champions
+2686,15983.0,Champions
+2687,15984.0,Champions
+2688,15985.0,At risk
+2689,15986.0,Recent / promising
+2690,15987.0,Champions
+2691,15988.0,Recent / promising
+2692,15990.0,Loyal
+2693,15992.0,Recent / promising
+2694,15993.0,Champions
+2695,15994.0,At risk
+2696,15996.0,At risk
+2697,15998.0,Champions
+2698,16000.0,Champions
+2699,16003.0,Champions
+2700,16005.0,Loyal
+2701,16006.0,Lost / dormant
+2702,16007.0,Champions
+2703,16008.0,Loyal
+2704,16009.0,Champions
+2705,16010.0,Lost / dormant
+2706,16011.0,Champions
+2707,16012.0,Champions
+2708,16013.0,Champions
+2709,16014.0,Loyal
+2710,16015.0,Champions
+2711,16016.0,Champions
+2712,16017.0,Recent / promising
+2713,16018.0,Loyal
+2714,16019.0,Champions
+2715,16020.0,Champions
+2716,16022.0,Lost / dormant
+2717,16023.0,Champions
+2718,16024.0,Recent / promising
+2719,16025.0,Recent / promising
+2720,16026.0,Recent / promising
+2721,16027.0,At risk
+2722,16029.0,Champions
+2723,16030.0,Lost / dormant
+2724,16031.0,At risk
+2725,16033.0,Champions
+2726,16034.0,Lost / dormant
+2727,16036.0,At risk
+2728,16037.0,Lost / dormant
+2729,16038.0,Loyal
+2730,16040.0,At risk
+2731,16041.0,Champions
+2732,16042.0,Champions
+2733,16043.0,Champions
+2734,16045.0,At risk
+2735,16048.0,Lost / dormant
+2736,16049.0,Champions
+2737,16050.0,Lost / dormant
+2738,16052.0,At risk
+2739,16053.0,Loyal
+2740,16054.0,Lost / dormant
+2741,16055.0,Lost / dormant
+2742,16056.0,Recent / promising
+2743,16057.0,Champions
+2744,16059.0,At risk
+2745,16061.0,Unattributed (no CustomerID)
+2746,16062.0,Champions
+2747,16063.0,Lost / dormant
+2748,16065.0,Lost / dormant
+2749,16066.0,Champions
+2750,16070.0,Loyal
+2751,16071.0,Recent / promising
+2752,16072.0,Lost / dormant
+2753,16073.0,Lost / dormant
+2754,16076.0,Champions
+2755,16078.0,Lost / dormant
+2756,16079.0,Champions
+2757,16080.0,At risk
+2758,16081.0,At risk
+2759,16083.0,At risk
+2760,16084.0,Lost / dormant
+2761,16085.0,Champions
+2762,16086.0,At risk
+2763,16091.0,Lost / dormant
+2764,16092.0,At risk
+2765,16093.0,At risk
+2766,16094.0,Champions
+2767,16096.0,Lost / dormant
+2768,16097.0,Lost / dormant
+2769,16098.0,At risk
+2770,16099.0,Champions
+2771,16101.0,At risk
+2772,16102.0,Champions
+2773,16103.0,Champions
+2774,16104.0,At risk
+2775,16105.0,Lost / dormant
+2776,16106.0,At risk
+2777,16107.0,Champions
+2778,16108.0,At risk
+2779,16109.0,Lost / dormant
+2780,16110.0,Champions
+2781,16112.0,Lost / dormant
+2782,16113.0,Lost / dormant
+2783,16114.0,Lost / dormant
+2784,16115.0,Champions
+2785,16116.0,Lost / dormant
+2786,16117.0,Lost / dormant
+2787,16119.0,Loyal
+2788,16120.0,At risk
+2789,16121.0,At risk
+2790,16122.0,At risk
+2791,16123.0,At risk
+2792,16124.0,Lost / dormant
+2793,16125.0,Lost / dormant
+2794,16126.0,Champions
+2795,16127.0,Recent / promising
+2796,16128.0,Champions
+2797,16131.0,At risk
+2798,16133.0,Champions
+2799,16134.0,Loyal
+2800,16135.0,Lost / dormant
+2801,16136.0,At risk
+2802,16138.0,Unattributed (no CustomerID)
+2803,16139.0,Loyal
+2804,16140.0,At risk
+2805,16141.0,At risk
+2806,16142.0,Lost / dormant
+2807,16143.0,Champions
+2808,16144.0,Lost / dormant
+2809,16145.0,Champions
+2810,16146.0,Lost / dormant
+2811,16147.0,At risk
+2812,16148.0,Lost / dormant
+2813,16149.0,Loyal
+2814,16150.0,Champions
+2815,16152.0,Lost / dormant
+2816,16153.0,Champions
+2817,16156.0,Champions
+2818,16157.0,Loyal
+2819,16159.0,Lost / dormant
+2820,16160.0,At risk
+2821,16161.0,Champions
+2822,16162.0,Lost / dormant
+2823,16163.0,Lost / dormant
+2824,16164.0,Champions
+2825,16168.0,Champions
+2826,16169.0,Champions
+2827,16170.0,Champions
+2828,16171.0,At risk
+2829,16172.0,At risk
+2830,16173.0,Champions
+2831,16174.0,At risk
+2832,16175.0,At risk
+2833,16177.0,Recent / promising
+2834,16178.0,At risk
+2835,16179.0,At risk
+2836,16180.0,At risk
+2837,16181.0,At risk
+2838,16182.0,At risk
+2839,16183.0,At risk
+2840,16184.0,At risk
+2841,16185.0,Loyal
+2842,16186.0,Champions
+2843,16187.0,Champions
+2844,16188.0,Champions
+2845,16189.0,Loyal
+2846,16190.0,Recent / promising
+2847,16191.0,Champions
+2848,16193.0,Lost / dormant
+2849,16198.0,At risk
+2850,16200.0,Loyal
+2851,16201.0,Champions
+2852,16202.0,Lost / dormant
+2853,16203.0,At risk
+2854,16204.0,Recent / promising
+2855,16205.0,Champions
+2856,16206.0,At risk
+2857,16207.0,Recent / promising
+2858,16208.0,Loyal
+2859,16209.0,At risk
+2860,16210.0,Champions
+2861,16211.0,At risk
+2862,16212.0,Loyal
+2863,16213.0,At risk
+2864,16214.0,Lost / dormant
+2865,16215.0,At risk
+2866,16216.0,Lost / dormant
+2867,16217.0,Lost / dormant
+2868,16218.0,Champions
+2869,16221.0,Champions
+2870,16222.0,Lost / dormant
+2871,16224.0,At risk
+2872,16225.0,Champions
+2873,16226.0,Lost / dormant
+2874,16227.0,Lost / dormant
+2875,16229.0,At risk
+2876,16230.0,Lost / dormant
+2877,16232.0,Champions
+2878,16233.0,At risk
+2879,16235.0,Champions
+2880,16236.0,At risk
+2881,16239.0,At risk
+2882,16240.0,Loyal
+2883,16241.0,Champions
+2884,16242.0,Champions
+2885,16243.0,Loyal
+2886,16244.0,Lost / dormant
+2887,16245.0,Champions
+2888,16247.0,Lost / dormant
+2889,16248.0,At risk
+2890,16249.0,At risk
+2891,16250.0,Lost / dormant
+2892,16252.0,Unattributed (no CustomerID)
+2893,16253.0,At risk
+2894,16255.0,Champions
+2895,16256.0,Lost / dormant
+2896,16257.0,Lost / dormant
+2897,16258.0,Champions
+2898,16260.0,Recent / promising
+2899,16261.0,Champions
+2900,16262.0,Unattributed (no CustomerID)
+2901,16265.0,Champions
+2902,16266.0,At risk
+2903,16268.0,At risk
+2904,16270.0,Lost / dormant
+2905,16271.0,Champions
+2906,16272.0,At risk
+2907,16274.0,Lost / dormant
+2908,16275.0,Lost / dormant
+2909,16276.0,Lost / dormant
+2910,16278.0,At risk
+2911,16279.0,Champions
+2912,16281.0,At risk
+2913,16282.0,Lost / dormant
+2914,16283.0,Champions
+2915,16284.0,Loyal
+2916,16287.0,Lost / dormant
+2917,16292.0,At risk
+2918,16293.0,Champions
+2919,16295.0,Champions
+2920,16297.0,Lost / dormant
+2921,16298.0,Loyal
+2922,16302.0,At risk
+2923,16303.0,Champions
+2924,16305.0,At risk
+2925,16306.0,Lost / dormant
+2926,16308.0,Champions
+2927,16309.0,At risk
+2928,16311.0,Loyal
+2929,16313.0,Loyal
+2930,16315.0,Lost / dormant
+2931,16316.0,At risk
+2932,16317.0,At risk
+2933,16318.0,Recent / promising
+2934,16319.0,Lost / dormant
+2935,16320.0,Lost / dormant
+2936,16321.0,At risk
+2937,16322.0,Loyal
+2938,16323.0,Lost / dormant
+2939,16324.0,At risk
+2940,16325.0,Loyal
+2941,16326.0,Champions
+2942,16327.0,Champions
+2943,16330.0,Loyal
+2944,16332.0,Champions
+2945,16333.0,Champions
+2946,16337.0,Recent / promising
+2947,16338.0,Lost / dormant
+2948,16339.0,Lost / dormant
+2949,16340.0,At risk
+2950,16341.0,Champions
+2951,16342.0,At risk
+2952,16343.0,Loyal
+2953,16344.0,Lost / dormant
+2954,16345.0,Recent / promising
+2955,16347.0,Loyal
+2956,16348.0,Champions
+2957,16349.0,Lost / dormant
+2958,16350.0,Champions
+2959,16351.0,Lost / dormant
+2960,16352.0,Loyal
+2961,16353.0,Champions
+2962,16354.0,At risk
+2963,16356.0,Lost / dormant
+2964,16357.0,Loyal
+2965,16358.0,Champions
+2966,16359.0,Champions
+2967,16360.0,Champions
+2968,16361.0,Champions
+2969,16362.0,Champions
+2970,16363.0,At risk
+2971,16364.0,Loyal
+2972,16365.0,Champions
+2973,16366.0,Recent / promising
+2974,16367.0,Loyal
+2975,16368.0,Loyal
+2976,16369.0,Champions
+2977,16370.0,At risk
+2978,16372.0,Loyal
+2979,16374.0,At risk
+2980,16376.0,Loyal
+2981,16377.0,Lost / dormant
+2982,16378.0,Lost / dormant
+2983,16379.0,Champions
+2984,16380.0,At risk
+2985,16383.0,At risk
+2986,16384.0,At risk
+2987,16385.0,At risk
+2988,16386.0,Loyal
+2989,16387.0,Lost / dormant
+2990,16389.0,At risk
+2991,16392.0,Lost / dormant
+2992,16393.0,Champions
+2993,16394.0,At risk
+2994,16395.0,At risk
+2995,16398.0,Lost / dormant
+2996,16399.0,Loyal
+2997,16400.0,At risk
+2998,16401.0,Champions
+2999,16402.0,Lost / dormant
+3000,16403.0,Lost / dormant
+3001,16404.0,At risk
+3002,16405.0,Lost / dormant
+3003,16406.0,Recent / promising
+3004,16407.0,Champions
+3005,16409.0,Champions
+3006,16411.0,Loyal
+3007,16412.0,At risk
+3008,16413.0,At risk
+3009,16414.0,Loyal
+3010,16415.0,Recent / promising
+3011,16416.0,Champions
+3012,16418.0,Loyal
+3013,16419.0,At risk
+3014,16422.0,Champions
+3015,16423.0,Recent / promising
+3016,16424.0,Lost / dormant
+3017,16425.0,Lost / dormant
+3018,16426.0,Champions
+3019,16427.0,Lost / dormant
+3020,16428.0,Unattributed (no CustomerID)
+3021,16429.0,At risk
+3022,16430.0,At risk
+3023,16431.0,Lost / dormant
+3024,16432.0,At risk
+3025,16433.0,Recent / promising
+3026,16434.0,Champions
+3027,16438.0,Champions
+3028,16440.0,Champions
+3029,16441.0,At risk
+3030,16442.0,Loyal
+3031,16444.0,Loyal
+3032,16445.0,Recent / promising
+3033,16446.0,Loyal
+3034,16447.0,At risk
+3035,16448.0,Lost / dormant
+3036,16449.0,Lost / dormant
+3037,16450.0,Lost / dormant
+3038,16451.0,At risk
+3039,16454.0,Loyal
+3040,16455.0,At risk
+3041,16456.0,At risk
+3042,16457.0,Lost / dormant
+3043,16458.0,Champions
+3044,16460.0,Champions
+3045,16461.0,Lost / dormant
+3046,16462.0,At risk
+3047,16463.0,Champions
+3048,16464.0,Champions
+3049,16466.0,Champions
+3050,16468.0,At risk
+3051,16469.0,Loyal
+3052,16470.0,At risk
+3053,16471.0,Lost / dormant
+3054,16473.0,Lost / dormant
+3055,16474.0,Champions
+3056,16475.0,At risk
+3057,16477.0,At risk
+3058,16478.0,Loyal
+3059,16479.0,Loyal
+3060,16480.0,At risk
+3061,16482.0,Recent / promising
+3062,16483.0,Lost / dormant
+3063,16484.0,Lost / dormant
+3064,16485.0,At risk
+3065,16488.0,Loyal
+3066,16491.0,Recent / promising
+3067,16493.0,At risk
+3068,16494.0,Lost / dormant
+3069,16495.0,Loyal
+3070,16496.0,Champions
+3071,16497.0,Champions
+3072,16498.0,Lost / dormant
+3073,16499.0,Lost / dormant
+3074,16500.0,Loyal
+3075,16503.0,At risk
+3076,16504.0,Recent / promising
+3077,16505.0,Recent / promising
+3078,16506.0,Loyal
+3079,16509.0,Lost / dormant
+3080,16510.0,Lost / dormant
+3081,16511.0,Champions
+3082,16513.0,Champions
+3083,16515.0,At risk
+3084,16516.0,Recent / promising
+3085,16517.0,Lost / dormant
+3086,16518.0,At risk
+3087,16519.0,Loyal
+3088,16520.0,Lost / dormant
+3089,16523.0,Champions
+3090,16525.0,Champions
+3091,16526.0,Lost / dormant
+3092,16527.0,At risk
+3093,16528.0,Recent / promising
+3094,16529.0,Lost / dormant
+3095,16531.0,Champions
+3096,16532.0,Champions
+3097,16533.0,Champions
+3098,16535.0,Recent / promising
+3099,16536.0,At risk
+3100,16539.0,Champions
+3101,16542.0,At risk
+3102,16545.0,Lost / dormant
+3103,16546.0,Lost / dormant
+3104,16549.0,Champions
+3105,16550.0,At risk
+3106,16551.0,At risk
+3107,16552.0,Lost / dormant
+3108,16553.0,Lost / dormant
+3109,16554.0,Champions
+3110,16555.0,Loyal
+3111,16556.0,At risk
+3112,16557.0,Loyal
+3113,16558.0,Champions
+3114,16560.0,Loyal
+3115,16561.0,Loyal
+3116,16563.0,At risk
+3117,16565.0,Lost / dormant
+3118,16566.0,Loyal
+3119,16567.0,Lost / dormant
+3120,16569.0,Recent / promising
+3121,16570.0,Champions
+3122,16571.0,Champions
+3123,16572.0,At risk
+3124,16573.0,At risk
+3125,16574.0,At risk
+3126,16579.0,Unattributed (no CustomerID)
+3127,16581.0,Lost / dormant
+3128,16582.0,At risk
+3129,16583.0,Lost / dormant
+3130,16584.0,At risk
+3131,16586.0,Lost / dormant
+3132,16587.0,Lost / dormant
+3133,16589.0,At risk
+3134,16591.0,At risk
+3135,16592.0,Champions
+3136,16593.0,Loyal
+3137,16594.0,At risk
+3138,16595.0,At risk
+3139,16596.0,Loyal
+3140,16597.0,Recent / promising
+3141,16598.0,Lost / dormant
+3142,16600.0,Champions
+3143,16601.0,Recent / promising
+3144,16602.0,Recent / promising
+3145,16603.0,At risk
+3146,16607.0,Champions
+3147,16609.0,Champions
+3148,16610.0,Lost / dormant
+3149,16611.0,Lost / dormant
+3150,16612.0,Champions
+3151,16613.0,At risk
+3152,16614.0,Lost / dormant
+3153,16616.0,Loyal
+3154,16617.0,Lost / dormant
+3155,16618.0,Champions
+3156,16619.0,Lost / dormant
+3157,16620.0,Loyal
+3158,16621.0,At risk
+3159,16623.0,Lost / dormant
+3160,16624.0,At risk
+3161,16625.0,Lost / dormant
+3162,16626.0,Champions
+3163,16627.0,At risk
+3164,16628.0,Champions
+3165,16629.0,At risk
+3166,16633.0,Champions
+3167,16634.0,Lost / dormant
+3168,16637.0,Champions
+3169,16638.0,Champions
+3170,16639.0,Champions
+3171,16641.0,At risk
+3172,16642.0,Loyal
+3173,16643.0,Lost / dormant
+3174,16644.0,Lost / dormant
+3175,16647.0,Lost / dormant
+3176,16648.0,Loyal
+3177,16650.0,At risk
+3178,16652.0,At risk
+3179,16653.0,Loyal
+3180,16654.0,At risk
+3181,16655.0,Champions
+3182,16656.0,Champions
+3183,16657.0,Champions
+3184,16658.0,Lost / dormant
+3185,16659.0,Lost / dormant
+3186,16660.0,Champions
+3187,16665.0,Lost / dormant
+3188,16666.0,Loyal
+3189,16667.0,At risk
+3190,16668.0,Loyal
+3191,16669.0,Champions
+3192,16670.0,Champions
+3193,16671.0,Champions
+3194,16672.0,Champions
+3195,16674.0,At risk
+3196,16676.0,Champions
+3197,16678.0,Champions
+3198,16679.0,Lost / dormant
+3199,16680.0,Loyal
+3200,16681.0,At risk
+3201,16682.0,Champions
+3202,16684.0,Champions
+3203,16685.0,At risk
+3204,16686.0,Champions
+3205,16688.0,Champions
+3206,16689.0,At risk
+3207,16690.0,At risk
+3208,16692.0,Lost / dormant
+3209,16693.0,At risk
+3210,16696.0,At risk
+3211,16697.0,Lost / dormant
+3212,16698.0,Lost / dormant
+3213,16700.0,Champions
+3214,16701.0,Champions
+3215,16705.0,Champions
+3216,16706.0,Loyal
+3217,16708.0,Loyal
+3218,16709.0,At risk
+3219,16710.0,Champions
+3220,16711.0,Champions
+3221,16712.0,Champions
+3222,16713.0,Champions
+3223,16714.0,Lost / dormant
+3224,16715.0,At risk
+3225,16716.0,Lost / dormant
+3226,16717.0,Champions
+3227,16718.0,Lost / dormant
+3228,16719.0,Champions
+3229,16720.0,Loyal
+3230,16721.0,Lost / dormant
+3231,16722.0,Champions
+3232,16723.0,At risk
+3233,16725.0,Lost / dormant
+3234,16726.0,Champions
+3235,16727.0,Lost / dormant
+3236,16728.0,Champions
+3237,16729.0,Champions
+3238,16730.0,At risk
+3239,16732.0,Loyal
+3240,16734.0,At risk
+3241,16735.0,At risk
+3242,16737.0,At risk
+3243,16738.0,Lost / dormant
+3244,16739.0,Lost / dormant
+3245,16742.0,Loyal
+3246,16743.0,Champions
+3247,16744.0,Champions
+3248,16745.0,At risk
+3249,16746.0,Champions
+3250,16747.0,Loyal
+3251,16748.0,Champions
+3252,16750.0,Loyal
+3253,16751.0,Loyal
+3254,16752.0,Lost / dormant
+3255,16753.0,At risk
+3256,16754.0,Lost / dormant
+3257,16755.0,At risk
+3258,16756.0,Lost / dormant
+3259,16757.0,Lost / dormant
+3260,16758.0,At risk
+3261,16759.0,Champions
+3262,16761.0,At risk
+3263,16762.0,Champions
+3264,16763.0,Lost / dormant
+3265,16764.0,Champions
+3266,16765.0,Lost / dormant
+3267,16766.0,Lost / dormant
+3268,16767.0,Champions
+3269,16768.0,Loyal
+3270,16769.0,Lost / dormant
+3271,16770.0,At risk
+3272,16771.0,Champions
+3273,16773.0,At risk
+3274,16774.0,At risk
+3275,16775.0,Champions
+3276,16776.0,At risk
+3277,16777.0,At risk
+3278,16778.0,At risk
+3279,16779.0,Champions
+3280,16780.0,At risk
+3281,16781.0,Lost / dormant
+3282,16782.0,Champions
+3283,16784.0,Loyal
+3284,16788.0,At risk
+3285,16789.0,Loyal
+3286,16790.0,Champions
+3287,16791.0,Champions
+3288,16792.0,Lost / dormant
+3289,16793.0,At risk
+3290,16794.0,Champions
+3291,16795.0,Lost / dormant
+3292,16796.0,At risk
+3293,16800.0,Loyal
+3294,16801.0,Lost / dormant
+3295,16803.0,At risk
+3296,16804.0,Loyal
+3297,16805.0,Lost / dormant
+3298,16806.0,At risk
+3299,16807.0,Lost / dormant
+3300,16808.0,At risk
+3301,16809.0,Champions
+3302,16810.0,Lost / dormant
+3303,16811.0,Loyal
+3304,16812.0,Lost / dormant
+3305,16813.0,Champions
+3306,16814.0,Champions
+3307,16816.0,At risk
+3308,16817.0,Champions
+3309,16818.0,Champions
+3310,16820.0,At risk
+3311,16823.0,Lost / dormant
+3312,16824.0,Loyal
+3313,16825.0,Loyal
+3314,16826.0,Loyal
+3315,16828.0,At risk
+3316,16829.0,Lost / dormant
+3317,16830.0,Loyal
+3318,16832.0,Lost / dormant
+3319,16833.0,Champions
+3320,16834.0,Lost / dormant
+3321,16835.0,At risk
+3322,16836.0,Loyal
+3323,16837.0,Champions
+3324,16838.0,Lost / dormant
+3325,16839.0,Champions
+3326,16841.0,Champions
+3327,16842.0,At risk
+3328,16843.0,Champions
+3329,16846.0,Loyal
+3330,16847.0,Loyal
+3331,16848.0,At risk
+3332,16849.0,Lost / dormant
+3333,16850.0,Lost / dormant
+3334,16851.0,Loyal
+3335,16852.0,Loyal
+3336,16855.0,Loyal
+3337,16856.0,Loyal
+3338,16858.0,Lost / dormant
+3339,16859.0,Lost / dormant
+3340,16861.0,At risk
+3341,16863.0,Loyal
+3342,16866.0,At risk
+3343,16869.0,Champions
+3344,16871.0,Champions
+3345,16872.0,At risk
+3346,16873.0,Champions
+3347,16875.0,At risk
+3348,16877.0,Champions
+3349,16878.0,At risk
+3350,16880.0,Champions
+3351,16881.0,At risk
+3352,16882.0,At risk
+3353,16883.0,Lost / dormant
+3354,16884.0,Loyal
+3355,16885.0,Loyal
+3356,16887.0,Loyal
+3357,16889.0,Lost / dormant
+3358,16891.0,Champions
+3359,16892.0,Loyal
+3360,16893.0,Lost / dormant
+3361,16895.0,At risk
+3362,16897.0,Lost / dormant
+3363,16898.0,Loyal
+3364,16899.0,Champions
+3365,16900.0,Champions
+3366,16902.0,At risk
+3367,16903.0,Loyal
+3368,16904.0,Champions
+3369,16905.0,Champions
+3370,16906.0,At risk
+3371,16907.0,Champions
+3372,16909.0,At risk
+3373,16910.0,Champions
+3374,16912.0,Champions
+3375,16913.0,Lost / dormant
+3376,16914.0,Loyal
+3377,16915.0,Loyal
+3378,16916.0,Loyal
+3379,16917.0,Lost / dormant
+3380,16918.0,Champions
+3381,16919.0,Lost / dormant
+3382,16921.0,At risk
+3383,16923.0,Champions
+3384,16924.0,Champions
+3385,16926.0,Lost / dormant
+3386,16927.0,At risk
+3387,16928.0,At risk
+3388,16929.0,Champions
+3389,16930.0,Loyal
+3390,16931.0,Champions
+3391,16932.0,At risk
+3392,16933.0,Loyal
+3393,16934.0,At risk
+3394,16936.0,Loyal
+3395,16938.0,Champions
+3396,16940.0,At risk
+3397,16942.0,Champions
+3398,16943.0,Lost / dormant
+3399,16945.0,Champions
+3400,16947.0,Lost / dormant
+3401,16948.0,At risk
+3402,16949.0,Champions
+3403,16950.0,At risk
+3404,16951.0,At risk
+3405,16952.0,At risk
+3406,16953.0,Loyal
+3407,16954.0,Champions
+3408,16955.0,Lost / dormant
+3409,16956.0,Loyal
+3410,16957.0,Lost / dormant
+3411,16959.0,At risk
+3412,16960.0,Loyal
+3413,16961.0,At risk
+3414,16963.0,Lost / dormant
+3415,16965.0,Lost / dormant
+3416,16966.0,Champions
+3417,16967.0,Lost / dormant
+3418,16968.0,Loyal
+3419,16969.0,Loyal
+3420,16971.0,Loyal
+3421,16976.0,Lost / dormant
+3422,16978.0,At risk
+3423,16979.0,Champions
+3424,16980.0,Lost / dormant
+3425,16982.0,At risk
+3426,16983.0,Champions
+3427,16984.0,At risk
+3428,16985.0,Champions
+3429,16986.0,Loyal
+3430,16987.0,Champions
+3431,16988.0,Loyal
+3432,16989.0,Champions
+3433,16990.0,Lost / dormant
+3434,16992.0,Champions
+3435,16995.0,Unattributed (no CustomerID)
+3436,16996.0,Champions
+3437,16997.0,Lost / dormant
+3438,16998.0,Lost / dormant
+3439,16999.0,Loyal
+3440,17001.0,Champions
+3441,17002.0,At risk
+3442,17004.0,Loyal
+3443,17006.0,Champions
+3444,17007.0,Champions
+3445,17010.0,Loyal
+3446,17011.0,Loyal
+3447,17014.0,Loyal
+3448,17015.0,Champions
+3449,17017.0,Champions
+3450,17018.0,Loyal
+3451,17019.0,Champions
+3452,17022.0,Loyal
+3453,17024.0,Loyal
+3454,17025.0,At risk
+3455,17026.0,Lost / dormant
+3456,17027.0,At risk
+3457,17029.0,At risk
+3458,17030.0,At risk
+3459,17031.0,Loyal
+3460,17033.0,At risk
+3461,17034.0,Champions
+3462,17035.0,Lost / dormant
+3463,17037.0,At risk
+3464,17038.0,Loyal
+3465,17040.0,At risk
+3466,17041.0,Champions
+3467,17042.0,Champions
+3468,17043.0,Champions
+3469,17044.0,Loyal
+3470,17045.0,At risk
+3471,17046.0,Lost / dormant
+3472,17047.0,At risk
+3473,17048.0,At risk
+3474,17049.0,Champions
+3475,17050.0,At risk
+3476,17051.0,Lost / dormant
+3477,17052.0,Loyal
+3478,17053.0,At risk
+3479,17054.0,Champions
+3480,17058.0,At risk
+3481,17059.0,Champions
+3482,17060.0,Lost / dormant
+3483,17061.0,At risk
+3484,17062.0,Lost / dormant
+3485,17063.0,Champions
+3486,17064.0,At risk
+3487,17065.0,Unattributed (no CustomerID)
+3488,17068.0,Champions
+3489,17069.0,Champions
+3490,17070.0,At risk
+3491,17071.0,Champions
+3492,17073.0,Champions
+3493,17075.0,Champions
+3494,17076.0,Champions
+3495,17078.0,Loyal
+3496,17079.0,At risk
+3497,17080.0,Loyal
+3498,17081.0,Loyal
+3499,17082.0,Loyal
+3500,17083.0,At risk
+3501,17084.0,Loyal
+3502,17085.0,At risk
+3503,17086.0,Champions
+3504,17088.0,Champions
+3505,17090.0,Champions
+3506,17091.0,Champions
+3507,17092.0,Champions
+3508,17094.0,Lost / dormant
+3509,17095.0,Champions
+3510,17096.0,Champions
+3511,17097.0,Champions
+3512,17100.0,Loyal
+3513,17101.0,Champions
+3514,17102.0,Lost / dormant
+3515,17105.0,Lost / dormant
+3516,17107.0,Champions
+3517,17109.0,Champions
+3518,17110.0,Lost / dormant
+3519,17111.0,Loyal
+3520,17114.0,Champions
+3521,17115.0,Champions
+3522,17117.0,Lost / dormant
+3523,17118.0,Lost / dormant
+3524,17119.0,Loyal
+3525,17120.0,Lost / dormant
+3526,17122.0,At risk
+3527,17123.0,Lost / dormant
+3528,17124.0,Lost / dormant
+3529,17125.0,Loyal
+3530,17126.0,Lost / dormant
+3531,17128.0,Lost / dormant
+3532,17131.0,Champions
+3533,17133.0,Champions
+3534,17134.0,At risk
+3535,17135.0,Champions
+3536,17138.0,Lost / dormant
+3537,17139.0,Champions
+3538,17140.0,Lost / dormant
+3539,17142.0,Lost / dormant
+3540,17144.0,Loyal
+3541,17146.0,At risk
+3542,17147.0,Champions
+3543,17148.0,At risk
+3544,17152.0,Lost / dormant
+3545,17153.0,Loyal
+3546,17154.0,At risk
+3547,17155.0,Loyal
+3548,17157.0,Loyal
+3549,17158.0,Champions
+3550,17159.0,Champions
+3551,17160.0,Champions
+3552,17162.0,Champions
+3553,17163.0,Loyal
+3554,17164.0,Champions
+3555,17165.0,Lost / dormant
+3556,17166.0,Loyal
+3557,17169.0,At risk
+3558,17171.0,Lost / dormant
+3559,17172.0,At risk
+3560,17173.0,Champions
+3561,17174.0,Lost / dormant
+3562,17175.0,Champions
+3563,17176.0,Lost / dormant
+3564,17179.0,Lost / dormant
+3565,17180.0,At risk
+3566,17181.0,At risk
+3567,17183.0,Champions
+3568,17186.0,Loyal
+3569,17187.0,Lost / dormant
+3570,17188.0,Champions
+3571,17189.0,At risk
+3572,17190.0,At risk
+3573,17191.0,Champions
+3574,17193.0,Champions
+3575,17194.0,Lost / dormant
+3576,17197.0,Loyal
+3577,17198.0,Champions
+3578,17201.0,At risk
+3579,17203.0,Champions
+3580,17204.0,Lost / dormant
+3581,17205.0,At risk
+3582,17206.0,At risk
+3583,17211.0,Champions
+3584,17212.0,Lost / dormant
+3585,17213.0,Champions
+3586,17214.0,At risk
+3587,17217.0,Lost / dormant
+3588,17218.0,Champions
+3589,17219.0,Loyal
+3590,17220.0,Champions
+3591,17221.0,Loyal
+3592,17222.0,At risk
+3593,17223.0,Lost / dormant
+3594,17226.0,Lost / dormant
+3595,17227.0,Champions
+3596,17228.0,Champions
+3597,17229.0,At risk
+3598,17230.0,Lost / dormant
+3599,17231.0,Champions
+3600,17232.0,Loyal
+3601,17233.0,Loyal
+3602,17234.0,Lost / dormant
+3603,17235.0,Loyal
+3604,17236.0,Champions
+3605,17237.0,Loyal
+3606,17238.0,Champions
+3607,17239.0,Lost / dormant
+3608,17242.0,At risk
+3609,17243.0,Champions
+3610,17244.0,At risk
+3611,17245.0,Lost / dormant
+3612,17247.0,Loyal
+3613,17248.0,At risk
+3614,17250.0,Loyal
+3615,17251.0,Lost / dormant
+3616,17252.0,At risk
+3617,17253.0,Loyal
+3618,17254.0,Loyal
+3619,17255.0,Loyal
+3620,17256.0,At risk
+3621,17259.0,Lost / dormant
+3622,17262.0,At risk
+3623,17263.0,Lost / dormant
+3624,17265.0,At risk
+3625,17266.0,Loyal
+3626,17267.0,At risk
+3627,17268.0,At risk
+3628,17272.0,Champions
+3629,17274.0,Loyal
+3630,17277.0,Lost / dormant
+3631,17278.0,Lost / dormant
+3632,17279.0,At risk
+3633,17282.0,At risk
+3634,17284.0,At risk
+3635,17286.0,Loyal
+3636,17287.0,Champions
+3637,17288.0,Champions
+3638,17289.0,Champions
+3639,17290.0,Loyal
+3640,17291.0,Lost / dormant
+3641,17293.0,Champions
+3642,17295.0,Loyal
+3643,17297.0,Loyal
+3644,17298.0,At risk
+3645,17299.0,Loyal
+3646,17301.0,Loyal
+3647,17302.0,Champions
+3648,17303.0,Lost / dormant
+3649,17306.0,Champions
+3650,17307.0,Unattributed (no CustomerID)
+3651,17309.0,At risk
+3652,17311.0,At risk
+3653,17312.0,At risk
+3654,17313.0,Loyal
+3655,17314.0,Champions
+3656,17315.0,Champions
+3657,17317.0,Champions
+3658,17320.0,At risk
+3659,17321.0,Loyal
+3660,17323.0,Champions
+3661,17324.0,Champions
+3662,17325.0,Lost / dormant
+3663,17329.0,Loyal
+3664,17330.0,Loyal
+3665,17331.0,At risk
+3666,17333.0,At risk
+3667,17334.0,Lost / dormant
+3668,17337.0,Lost / dormant
+3669,17338.0,Champions
+3670,17339.0,At risk
+3671,17340.0,Champions
+3672,17341.0,Lost / dormant
+3673,17343.0,Lost / dormant
+3674,17344.0,Loyal
+3675,17345.0,Loyal
+3676,17346.0,Champions
+3677,17347.0,At risk
+3678,17348.0,Champions
+3679,17349.0,Lost / dormant
+3680,17350.0,Champions
+3681,17351.0,Loyal
+3682,17353.0,At risk
+3683,17354.0,Loyal
+3684,17356.0,Lost / dormant
+3685,17357.0,Loyal
+3686,17358.0,Lost / dormant
+3687,17359.0,Loyal
+3688,17360.0,Loyal
+3689,17361.0,Loyal
+3690,17362.0,Lost / dormant
+3691,17364.0,Champions
+3692,17365.0,Champions
+3693,17367.0,Lost / dormant
+3694,17368.0,Champions
+3695,17370.0,At risk
+3696,17371.0,Loyal
+3697,17372.0,Champions
+3698,17373.0,Loyal
+3699,17374.0,Lost / dormant
+3700,17375.0,Lost / dormant
+3701,17376.0,At risk
+3702,17377.0,Champions
+3703,17379.0,Loyal
+3704,17381.0,Champions
+3705,17382.0,At risk
+3706,17383.0,Loyal
+3707,17384.0,Loyal
+3708,17385.0,Loyal
+3709,17386.0,Champions
+3710,17387.0,Champions
+3711,17388.0,At risk
+3712,17389.0,Champions
+3713,17391.0,Lost / dormant
+3714,17392.0,Lost / dormant
+3715,17394.0,Lost / dormant
+3716,17396.0,Champions
+3717,17397.0,Champions
+3718,17398.0,At risk
+3719,17400.0,At risk
+3720,17402.0,Champions
+3721,17403.0,Loyal
+3722,17404.0,Champions
+3723,17405.0,Champions
+3724,17406.0,Lost / dormant
+3725,17408.0,Lost / dormant
+3726,17409.0,Lost / dormant
+3727,17410.0,Champions
+3728,17411.0,Champions
+3729,17412.0,Champions
+3730,17414.0,Champions
+3731,17415.0,At risk
+3732,17416.0,Champions
+3733,17418.0,Loyal
+3734,17419.0,Champions
+3735,17420.0,Loyal
+3736,17422.0,Champions
+3737,17423.0,Champions
+3738,17425.0,Champions
+3739,17426.0,Champions
+3740,17427.0,At risk
+3741,17428.0,Champions
+3742,17429.0,At risk
+3743,17430.0,Loyal
+3744,17431.0,Lost / dormant
+3745,17432.0,Loyal
+3746,17433.0,At risk
+3747,17434.0,Champions
+3748,17436.0,Loyal
+3749,17438.0,Lost / dormant
+3750,17440.0,Lost / dormant
+3751,17442.0,Champions
+3752,17443.0,Lost / dormant
+3753,17444.0,Lost / dormant
+3754,17446.0,Lost / dormant
+3755,17447.0,Loyal
+3756,17448.0,Unattributed (no CustomerID)
+3757,17449.0,Champions
+3758,17450.0,Champions
+3759,17451.0,Champions
+3760,17453.0,Loyal
+3761,17454.0,Lost / dormant
+3762,17455.0,Lost / dormant
+3763,17456.0,Lost / dormant
+3764,17457.0,At risk
+3765,17458.0,Loyal
+3766,17459.0,Loyal
+3767,17460.0,At risk
+3768,17461.0,Champions
+3769,17462.0,At risk
+3770,17463.0,Champions
+3771,17464.0,Lost / dormant
+3772,17466.0,Champions
+3773,17468.0,Loyal
+3774,17469.0,Champions
+3775,17470.0,Champions
+3776,17472.0,Lost / dormant
+3777,17475.0,At risk
+3778,17480.0,At risk
+3779,17481.0,Champions
+3780,17483.0,At risk
+3781,17486.0,Lost / dormant
+3782,17489.0,At risk
+3783,17490.0,Champions
+3784,17491.0,Champions
+3785,17492.0,Lost / dormant
+3786,17495.0,Loyal
+3787,17496.0,Lost / dormant
+3788,17498.0,At risk
+3789,17499.0,Lost / dormant
+3790,17500.0,Champions
+3791,17501.0,Lost / dormant
+3792,17502.0,Champions
+3793,17503.0,Loyal
+3794,17504.0,Lost / dormant
+3795,17505.0,Lost / dormant
+3796,17506.0,At risk
+3797,17507.0,Lost / dormant
+3798,17508.0,Lost / dormant
+3799,17509.0,At risk
+3800,17510.0,Loyal
+3801,17511.0,Champions
+3802,17512.0,Champions
+3803,17513.0,At risk
+3804,17514.0,At risk
+3805,17515.0,Loyal
+3806,17516.0,Champions
+3807,17517.0,Lost / dormant
+3808,17519.0,Champions
+3809,17520.0,At risk
+3810,17521.0,Champions
+3811,17522.0,Champions
+3812,17523.0,Loyal
+3813,17524.0,Lost / dormant
+3814,17525.0,Lost / dormant
+3815,17526.0,Champions
+3816,17527.0,At risk
+3817,17528.0,Champions
+3818,17530.0,Champions
+3819,17531.0,Lost / dormant
+3820,17534.0,At risk
+3821,17535.0,Lost / dormant
+3822,17536.0,Lost / dormant
+3823,17537.0,Champions
+3824,17538.0,Loyal
+3825,17540.0,Loyal
+3826,17542.0,Lost / dormant
+3827,17545.0,Loyal
+3828,17547.0,Unattributed (no CustomerID)
+3829,17548.0,Lost / dormant
+3830,17549.0,Loyal
+3831,17550.0,Lost / dormant
+3832,17551.0,Lost / dormant
+3833,17552.0,At risk
+3834,17553.0,At risk
+3835,17554.0,Champions
+3836,17555.0,Loyal
+3837,17556.0,Lost / dormant
+3838,17557.0,Loyal
+3839,17560.0,At risk
+3840,17561.0,Loyal
+3841,17562.0,Champions
+3842,17564.0,Loyal
+3843,17566.0,Champions
+3844,17567.0,Champions
+3845,17569.0,Lost / dormant
+3846,17571.0,Champions
+3847,17572.0,At risk
+3848,17573.0,Loyal
+3849,17574.0,Lost / dormant
+3850,17576.0,Champions
+3851,17578.0,Lost / dormant
+3852,17579.0,Loyal
+3853,17580.0,Lost / dormant
+3854,17581.0,Champions
+3855,17582.0,Lost / dormant
+3856,17584.0,Champions
+3857,17585.0,At risk
+3858,17588.0,At risk
+3859,17589.0,At risk
+3860,17590.0,Champions
+3861,17591.0,At risk
+3862,17593.0,Champions
+3863,17594.0,At risk
+3864,17595.0,Loyal
+3865,17596.0,Champions
+3866,17597.0,Lost / dormant
+3867,17600.0,Loyal
+3868,17601.0,Lost / dormant
+3869,17602.0,Champions
+3870,17603.0,At risk
+3871,17604.0,Lost / dormant
+3872,17608.0,Loyal
+3873,17609.0,Champions
+3874,17611.0,Champions
+3875,17612.0,At risk
+3876,17613.0,Champions
+3877,17614.0,At risk
+3878,17615.0,At risk
+3879,17616.0,Lost / dormant
+3880,17618.0,Champions
+3881,17619.0,Lost / dormant
+3882,17620.0,At risk
+3883,17621.0,Champions
+3884,17623.0,Loyal
+3885,17624.0,Champions
+3886,17625.0,Champions
+3887,17628.0,At risk
+3888,17629.0,Champions
+3889,17630.0,Lost / dormant
+3890,17631.0,Loyal
+3891,17633.0,Champions
+3892,17634.0,Champions
+3893,17636.0,Loyal
+3894,17637.0,Loyal
+3895,17639.0,Lost / dormant
+3896,17640.0,At risk
+3897,17642.0,At risk
+3898,17643.0,Lost / dormant
+3899,17644.0,Champions
+3900,17646.0,Lost / dormant
+3901,17647.0,At risk
+3902,17648.0,At risk
+3903,17649.0,At risk
+3904,17650.0,Loyal
+3905,17651.0,Champions
+3906,17652.0,Champions
+3907,17653.0,Champions
+3908,17654.0,Lost / dormant
+3909,17655.0,Champions
+3910,17656.0,At risk
+3911,17658.0,Loyal
+3912,17659.0,Champions
+3913,17660.0,At risk
+3914,17663.0,Champions
+3915,17664.0,Loyal
+3916,17666.0,Champions
+3917,17667.0,At risk
+3918,17668.0,Loyal
+3919,17669.0,Champions
+3920,17670.0,Lost / dormant
+3921,17671.0,Champions
+3922,17672.0,Champions
+3923,17673.0,Champions
+3924,17674.0,At risk
+3925,17675.0,Champions
+3926,17676.0,Champions
+3927,17677.0,Champions
+3928,17678.0,Lost / dormant
+3929,17679.0,At risk
+3930,17680.0,Loyal
+3931,17682.0,Champions
+3932,17684.0,Loyal
+3933,17685.0,Champions
+3934,17686.0,Champions
+3935,17690.0,Champions
+3936,17691.0,Lost / dormant
+3937,17692.0,At risk
+3938,17693.0,At risk
+3939,17694.0,At risk
+3940,17695.0,At risk
+3941,17696.0,Champions
+3942,17697.0,Lost / dormant
+3943,17698.0,Lost / dormant
+3944,17700.0,Champions
+3945,17701.0,Lost / dormant
+3946,17702.0,Champions
+3947,17703.0,Champions
+3948,17704.0,Lost / dormant
+3949,17705.0,Champions
+3950,17706.0,Champions
+3951,17707.0,Lost / dormant
+3952,17708.0,Lost / dormant
+3953,17709.0,Lost / dormant
+3954,17711.0,Loyal
+3955,17712.0,Loyal
+3956,17714.0,Lost / dormant
+3957,17715.0,Lost / dormant
+3958,17716.0,Champions
+3959,17718.0,Lost / dormant
+3960,17719.0,Champions
+3961,17720.0,Champions
+3962,17722.0,At risk
+3963,17723.0,At risk
+3964,17724.0,At risk
+3965,17725.0,Champions
+3966,17727.0,Loyal
+3967,17728.0,Champions
+3968,17730.0,Champions
+3969,17731.0,At risk
+3970,17732.0,Lost / dormant
+3971,17733.0,Champions
+3972,17734.0,At risk
+3973,17735.0,Champions
+3974,17736.0,Loyal
+3975,17737.0,Loyal
+3976,17738.0,Champions
+3977,17739.0,Champions
+3978,17742.0,At risk
+3979,17744.0,Champions
+3980,17746.0,Lost / dormant
+3981,17747.0,At risk
+3982,17749.0,Lost / dormant
+3983,17750.0,Champions
+3984,17752.0,Lost / dormant
+3985,17754.0,Champions
+3986,17757.0,Champions
+3987,17758.0,Champions
+3988,17759.0,Champions
+3989,17760.0,Loyal
+3990,17761.0,Loyal
+3991,17763.0,Lost / dormant
+3992,17764.0,Champions
+3993,17765.0,Lost / dormant
+3994,17767.0,Loyal
+3995,17768.0,Champions
+3996,17769.0,Champions
+3997,17770.0,Lost / dormant
+3998,17771.0,At risk
+3999,17772.0,Loyal
+4000,17774.0,At risk
+4001,17775.0,Lost / dormant
+4002,17777.0,Loyal
+4003,17779.0,Loyal
+4004,17781.0,Lost / dormant
+4005,17783.0,At risk
+4006,17785.0,At risk
+4007,17786.0,At risk
+4008,17787.0,Lost / dormant
+4009,17788.0,At risk
+4010,17789.0,Lost / dormant
+4011,17790.0,Champions
+4012,17791.0,Loyal
+4013,17793.0,Loyal
+4014,17795.0,Lost / dormant
+4015,17796.0,Champions
+4016,17797.0,Champions
+4017,17799.0,Champions
+4018,17800.0,Champions
+4019,17802.0,At risk
+4020,17805.0,At risk
+4021,17806.0,Loyal
+4022,17809.0,Champions
+4023,17811.0,Champions
+4024,17812.0,Champions
+4025,17813.0,Champions
+4026,17816.0,Loyal
+4027,17817.0,Loyal
+4028,17819.0,At risk
+4029,17820.0,Unattributed (no CustomerID)
+4030,17824.0,Loyal
+4031,17827.0,Champions
+4032,17828.0,Champions
+4033,17829.0,Lost / dormant
+4034,17830.0,Loyal
+4035,17831.0,Loyal
+4036,17832.0,Loyal
+4037,17835.0,Loyal
+4038,17836.0,Loyal
+4039,17837.0,Champions
+4040,17838.0,Champions
+4041,17839.0,Loyal
+4042,17841.0,Champions
+4043,17843.0,Lost / dormant
+4044,17844.0,At risk
+4045,17846.0,At risk
+4046,17848.0,At risk
+4047,17849.0,Lost / dormant
+4048,17850.0,Lost / dormant
+4049,17852.0,Loyal
+4050,17854.0,Lost / dormant
+4051,17855.0,Lost / dormant
+4052,17856.0,Champions
+4053,17857.0,Champions
+4054,17858.0,Champions
+4055,17859.0,Lost / dormant
+4056,17860.0,Lost / dormant
+4057,17861.0,Champions
+4058,17862.0,Lost / dormant
+4059,17863.0,At risk
+4060,17864.0,Loyal
+4061,17865.0,Champions
+4062,17866.0,Lost / dormant
+4063,17867.0,Champions
+4064,17869.0,At risk
+4065,17870.0,Champions
+4066,17871.0,Lost / dormant
+4067,17873.0,At risk
+4068,17874.0,Lost / dormant
+4069,17877.0,Lost / dormant
+4070,17878.0,Loyal
+4071,17879.0,Lost / dormant
+4072,17880.0,Lost / dormant
+4073,17881.0,Lost / dormant
+4074,17883.0,Loyal
+4075,17884.0,Champions
+4076,17885.0,Loyal
+4077,17886.0,Champions
+4078,17887.0,At risk
+4079,17888.0,Champions
+4080,17889.0,Lost / dormant
+4081,17890.0,Lost / dormant
+4082,17891.0,Lost / dormant
+4083,17892.0,At risk
+4084,17893.0,Lost / dormant
+4085,17894.0,At risk
+4086,17895.0,Loyal
+4087,17896.0,Loyal
+4088,17897.0,Lost / dormant
+4089,17898.0,At risk
+4090,17899.0,Lost / dormant
+4091,17900.0,Lost / dormant
+4092,17901.0,Loyal
+4093,17904.0,Loyal
+4094,17905.0,At risk
+4095,17906.0,Lost / dormant
+4096,17908.0,Lost / dormant
+4097,17911.0,Loyal
+4098,17912.0,Lost / dormant
+4099,17913.0,At risk
+4100,17914.0,Loyal
+4101,17917.0,Loyal
+4102,17919.0,At risk
+4103,17920.0,Champions
+4104,17921.0,At risk
+4105,17923.0,Lost / dormant
+4106,17924.0,Champions
+4107,17925.0,Lost / dormant
+4108,17926.0,At risk
+4109,17928.0,Loyal
+4110,17929.0,Champions
+4111,17930.0,Champions
+4112,17931.0,At risk
+4113,17932.0,Champions
+4114,17934.0,At risk
+4115,17935.0,At risk
+4116,17936.0,Loyal
+4117,17937.0,Champions
+4118,17939.0,Lost / dormant
+4119,17940.0,Champions
+4120,17941.0,At risk
+4121,17942.0,Loyal
+4122,17946.0,Lost / dormant
+4123,17947.0,Loyal
+4124,17948.0,Lost / dormant
+4125,17949.0,Champions
+4126,17950.0,At risk
+4127,17951.0,Champions
+4128,17954.0,Champions
+4129,17955.0,Lost / dormant
+4130,17956.0,Lost / dormant
+4131,17957.0,At risk
+4132,17958.0,At risk
+4133,17960.0,Lost / dormant
+4134,17961.0,Champions
+4135,17962.0,At risk
+4136,17964.0,Loyal
+4137,17965.0,Champions
+4138,17966.0,Champions
+4139,17967.0,Lost / dormant
+4140,17968.0,Lost / dormant
+4141,17969.0,Lost / dormant
+4142,17970.0,Lost / dormant
+4143,17972.0,Lost / dormant
+4144,17973.0,At risk
+4145,17974.0,Champions
+4146,17975.0,Champions
+4147,17976.0,Lost / dormant
+4148,17977.0,Loyal
+4149,17978.0,Lost / dormant
+4150,17979.0,Champions
+4151,17980.0,Lost / dormant
+4152,17984.0,Lost / dormant
+4153,17985.0,Loyal
+4154,17986.0,At risk
+4155,17987.0,Lost / dormant
+4156,17988.0,Loyal
+4157,17990.0,Lost / dormant
+4158,17991.0,Lost / dormant
+4159,17994.0,At risk
+4160,17995.0,Lost / dormant
+4161,17997.0,At risk
+4162,17999.0,Loyal
+4163,18001.0,Loyal
+4164,18004.0,Lost / dormant
+4165,18005.0,Loyal
+4166,18006.0,Loyal
+4167,18008.0,At risk
+4168,18009.0,Lost / dormant
+4169,18010.0,Lost / dormant
+4170,18011.0,Lost / dormant
+4171,18013.0,Lost / dormant
+4172,18014.0,Loyal
+4173,18015.0,Loyal
+4174,18016.0,Champions
+4175,18017.0,At risk
+4176,18018.0,At risk
+4177,18019.0,At risk
+4178,18022.0,Loyal
+4179,18024.0,Lost / dormant
+4180,18027.0,At risk
+4181,18030.0,Loyal
+4182,18032.0,Lost / dormant
+4183,18033.0,At risk
+4184,18034.0,Loyal
+4185,18035.0,Champions
+4186,18036.0,Loyal
+4187,18037.0,Lost / dormant
+4188,18040.0,Loyal
+4189,18041.0,Champions
+4190,18042.0,At risk
+4191,18043.0,Loyal
+4192,18044.0,Champions
+4193,18045.0,Loyal
+4194,18048.0,Lost / dormant
+4195,18050.0,Lost / dormant
+4196,18053.0,At risk
+4197,18055.0,Champions
+4198,18056.0,Lost / dormant
+4199,18058.0,Loyal
+4200,18059.0,Loyal
+4201,18061.0,Champions
+4202,18062.0,Lost / dormant
+4203,18064.0,At risk
+4204,18065.0,Champions
+4205,18066.0,At risk
+4206,18067.0,Loyal
+4207,18068.0,Lost / dormant
+4208,18069.0,Champions
+4209,18071.0,Lost / dormant
+4210,18072.0,Lost / dormant
+4211,18073.0,At risk
+4212,18074.0,Lost / dormant
+4213,18075.0,Champions
+4214,18077.0,Champions
+4215,18078.0,Lost / dormant
+4216,18079.0,Champions
+4217,18080.0,Champions
+4218,18081.0,Loyal
+4219,18082.0,Loyal
+4220,18084.0,Loyal
+4221,18085.0,Lost / dormant
+4222,18086.0,Lost / dormant
+4223,18087.0,At risk
+4224,18088.0,At risk
+4225,18092.0,Champions
+4226,18093.0,At risk
+4227,18094.0,At risk
+4228,18095.0,Lost / dormant
+4229,18096.0,Champions
+4230,18097.0,Champions
+4231,18099.0,At risk
+4232,18101.0,Loyal
+4233,18102.0,Champions
+4234,18104.0,Loyal
+4235,18105.0,Loyal
+4236,18106.0,Lost / dormant
+4237,18108.0,Lost / dormant
+4238,18109.0,Champions
+4239,18110.0,Loyal
+4240,18112.0,Loyal
+4241,18113.0,Lost / dormant
+4242,18114.0,Lost / dormant
+4243,18116.0,At risk
+4244,18117.0,Loyal
+4245,18118.0,Champions
+4246,18119.0,Lost / dormant
+4247,18120.0,Lost / dormant
+4248,18121.0,Lost / dormant
+4249,18122.0,Champions
+4250,18123.0,Loyal
+4251,18125.0,Champions
+4252,18126.0,At risk
+4253,18127.0,Loyal
+4254,18129.0,Lost / dormant
+4255,18130.0,Champions
+4256,18133.0,Lost / dormant
+4257,18135.0,Champions
+4258,18136.0,At risk
+4259,18138.0,Lost / dormant
+4260,18139.0,Champions
+4261,18141.0,Unattributed (no CustomerID)
+4262,18142.0,Lost / dormant
+4263,18143.0,At risk
+4264,18144.0,Champions
+4265,18145.0,Champions
+4266,18146.0,At risk
+4267,18147.0,Loyal
+4268,18149.0,Loyal
+4269,18150.0,Loyal
+4270,18151.0,At risk
+4271,18154.0,Loyal
+4272,18155.0,At risk
+4273,18156.0,Champions
+4274,18158.0,Loyal
+4275,18159.0,Lost / dormant
+4276,18160.0,At risk
+4277,18161.0,Champions
+4278,18164.0,Loyal
+4279,18165.0,Lost / dormant
+4280,18167.0,Champions
+4281,18168.0,Lost / dormant
+4282,18169.0,At risk
+4283,18170.0,Champions
+4284,18171.0,At risk
+4285,18172.0,Champions
+4286,18173.0,At risk
+4287,18174.0,Loyal
+4288,18176.0,Lost / dormant
+4289,18177.0,Champions
+4290,18178.0,At risk
+4291,18179.0,Champions
+4292,18180.0,Champions
+4293,18181.0,Loyal
+4294,18183.0,Lost / dormant
+4295,18184.0,Loyal
+4296,18185.0,Lost / dormant
+4297,18188.0,Champions
+4298,18189.0,At risk
+4299,18190.0,Lost / dormant
+4300,18191.0,Lost / dormant
+4301,18192.0,At risk
+4302,18193.0,Lost / dormant
+4303,18194.0,At risk
+4304,18196.0,At risk
+4305,18198.0,Champions
+4306,18200.0,At risk
+4307,18202.0,Lost / dormant
+4308,18203.0,Lost / dormant
+4309,18204.0,At risk
+4310,18205.0,Loyal
+4311,18209.0,Loyal
+4312,18210.0,Champions
+4313,18211.0,Loyal
+4314,18212.0,Lost / dormant
+4315,18213.0,Lost / dormant
+4316,18215.0,At risk
+4317,18216.0,Loyal
+4318,18217.0,Loyal
+4319,18218.0,Lost / dormant
+4320,18219.0,Champions
+4321,18220.0,Lost / dormant
+4322,18221.0,Champions
+4323,18222.0,At risk
+4324,18223.0,Champions
+4325,18224.0,Lost / dormant
+4326,18225.0,Champions
+4327,18226.0,Champions
+4328,18227.0,Lost / dormant
+4329,18228.0,At risk
+4330,18229.0,Champions
+4331,18230.0,Champions
+4332,18231.0,Lost / dormant
+4333,18232.0,At risk
+4334,18233.0,Lost / dormant
+4335,18235.0,At risk
+4336,18236.0,Champions
+4337,18237.0,Champions
+4338,18239.0,Lost / dormant
+4339,18240.0,Loyal
+4340,18241.0,Champions
+4341,18242.0,At risk
+4342,18245.0,Champions
+4343,18246.0,Loyal
+4344,18248.0,At risk
+4345,18249.0,Loyal
+4346,18250.0,Lost / dormant
+4347,18251.0,At risk
+4348,18252.0,Loyal
+4349,18255.0,At risk
+4350,18256.0,Unattributed (no CustomerID)
+4351,18257.0,Champions
+4352,18259.0,Champions
+4353,18260.0,Lost / dormant
+4354,18261.0,Loyal
+4355,18262.0,At risk
+4356,18263.0,Champions
+4357,18265.0,At risk
+4358,18268.0,At risk
+4359,18269.0,Lost / dormant
+4360,18270.0,Loyal
+4361,18272.0,Champions
+4362,18273.0,Loyal
+4363,18274.0,Loyal
+4364,18276.0,Loyal
+4365,18277.0,At risk
+4366,18278.0,At risk
+4367,18280.0,Lost / dormant
+4368,18281.0,Lost / dormant
+4369,18282.0,Loyal
+4370,18283.0,Champions
+4371,18287.0,Champions
