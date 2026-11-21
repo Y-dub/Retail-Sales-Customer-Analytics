@@ -27,10 +27,10 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A[Raw transaction data] --> B[Versioned cleaning pipeline\n01_profile_and_analyse.py]
+    A[Raw transaction data] --> B[Versioned cleaning pipeline\ncleaning.py + tests]
     B --> C[Documented validation rules]
     C --> D[(Modelled star schema\nFACT_SALES + dims)]
-    D --> E[Power BI dashboard]
+    D --> E[Tableau dashboard]
     B --> Q[Data-quality summary]
     Q --> E
     E --> F[Commercial / Marketing / Finance\ndecide from one source]
@@ -43,6 +43,6 @@ flowchart LR
 |---|---|---|---|
 | Reproducibility | Manual Excel | Versioned script | NFR1, NFR2 |
 | Consistent KPIs | Per-analyst | Single definition | NFR3 |
-| Returns handling | Mixed in | Classified & netted | FR2 |
+| Returns handling | All 'C' invoices treated as returns | Product returns separated from fees, adjustments and order errors | FR2, FR9 |
 | Product clarity | Admin lines counted | Flagged & excluded | FR4 |
 | Customer attribution | Silent gaps | Flagged & reported | FR1, FR8 |

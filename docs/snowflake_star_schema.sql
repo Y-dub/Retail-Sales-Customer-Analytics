@@ -1,20 +1,27 @@
 -- Star schema for Retail Sales & Customer Analytics (Snowflake)
--- Load target for clean_sales.csv after cleaning. Dimensions + one fact.
--- You should be able to explain WHY this is a star (one fact, denormalised dims,
--- conformed DIM_DATE) if asked.
+-- One fact table at transaction-line grain, three dimensions and a date dimension.
+-- Files: snowflake-bundle/ (built by analysis/04_build_snowflake_bundle.py).
+--
+-- Why a star: one fact at a single grain (one row per invoice line), denormalised dimensions,
+-- and a conformed date dimension, so every KPI is a simple aggregate of FACT_SALES.
 
 CREATE OR REPLACE TABLE DIM_CUSTOMER (
-    customer_key   INT AUTOINCREMENT PRIMARY KEY,
-    customer_id    NUMBER,            -- natural key from source; NULL = unattributed sale
-    country        VARCHAR,
-    segment        VARCHAR            -- from RFM: Champions / Loyal / At risk / Lost / Recent
+    customer_key   INT PRIMARY KEY,   -- 0 = unattributed sale (no CustomerID in source)
+    customer_id    NUMBER,            -- natural key from source
+    segment        VARCHAR            -- RFM: Champions / Loyal / Recent / At risk / Lost
 );
 
 CREATE OR REPLACE TABLE DIM_PRODUCT (
-    product_key    INT AUTOINCREMENT PRIMARY KEY,
-    stock_code     VARCHAR,
-    description    VARCHAR,
-    is_admin_line  BOOLEAN            -- TRUE for POSTAGE / DOTCOM POSTAGE / MANUAL etc (FR4)
+    product_key           INT PRIMARY KEY,
+    stock_code            VARCHAR,
+    description           VARCHAR,
+    non_product_category  VARCHAR,    -- Postage, Fees, Manual adjustment, ... (NULL for products)
+    is_non_product        BOOLEAN     -- FR4
+);
+
+CREATE OR REPLACE TABLE DIM_GEOGRAPHY (
+    geo_key        INT PRIMARY KEY,
+    country        VARCHAR
 );
 
 CREATE OR REPLACE TABLE DIM_DATE (
@@ -27,24 +34,30 @@ CREATE OR REPLACE TABLE DIM_DATE (
 );
 
 CREATE OR REPLACE TABLE FACT_SALES (
-    sales_key      INT AUTOINCREMENT PRIMARY KEY,
     invoice_no     VARCHAR,
     customer_key   INT REFERENCES DIM_CUSTOMER(customer_key),
     product_key    INT REFERENCES DIM_PRODUCT(product_key),
+    geo_key        INT REFERENCES DIM_GEOGRAPHY(geo_key),
     date_key       INT REFERENCES DIM_DATE(date_key),
     quantity       INT,
     unit_price     NUMBER(10,2),
     revenue        NUMBER(12,2),      -- quantity * unit_price (FR3)
-    is_return      BOOLEAN            -- TRUE if source invoice began with 'C' (FR2)
+    line_type      VARCHAR            -- product_sale, product_return, non_product, order_error, ... (FR2, FR9)
 );
 
--- Example KPI query: monthly net revenue (should reconcile to revenue_by_month.csv)
--- SELECT d.year, d.month, SUM(CASE WHEN f.is_return THEN 0 ELSE f.revenue END) AS net_revenue
+-- Monthly net product revenue (reconciles to data/revenue_by_month.csv; Nov 2011 ~ £1.43m)
+-- SELECT d.year, d.month, SUM(f.revenue) AS net_revenue
 -- FROM FACT_SALES f JOIN DIM_DATE d ON f.date_key = d.date_key
--- GROUP BY 1,2 ORDER BY 1,2;
+-- WHERE f.line_type IN ('product_sale', 'product_return')
+-- GROUP BY 1, 2 ORDER BY 1, 2;
 
--- Example: revenue by RFM segment (should reconcile to findings.md section 6)
--- SELECT c.segment, COUNT(DISTINCT c.customer_id) AS customers, SUM(f.revenue) AS revenue
+-- Product return rate (reconciles to docs/findings.md; 2.3%)
+-- SELECT -SUM(CASE WHEN line_type = 'product_return' THEN revenue END)
+--        / SUM(CASE WHEN line_type = 'product_sale' THEN revenue END) AS return_rate
+-- FROM FACT_SALES;
+
+-- Net revenue by RFM segment (reconciles to findings.md section 6; Champions 76%)
+-- SELECT c.segment, COUNT(DISTINCT c.customer_id) AS customers, SUM(f.revenue) AS net_revenue
 -- FROM FACT_SALES f JOIN DIM_CUSTOMER c ON f.customer_key = c.customer_key
--- WHERE NOT f.is_return AND c.customer_id IS NOT NULL
--- GROUP BY 1 ORDER BY revenue DESC;
+-- WHERE f.line_type IN ('product_sale', 'product_return') AND c.customer_key <> 0
+-- GROUP BY 1 ORDER BY net_revenue DESC;
