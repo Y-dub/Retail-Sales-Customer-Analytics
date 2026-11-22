@@ -7,7 +7,7 @@ review, cleaning rules, star-schema model, RFM segmentation and a Tableau dashbo
 
 **Live dashboard:** [Tableau Public: Sales Performance](https://public.tableau.com/app/profile/yash.dubey7502/viz/Retail-BA/SalesPerformance)
 
-<!-- Add a screenshot of the updated dashboard here: ![Dashboard](figures/sales_performance.png) -->
+![Sales Performance dashboard](figures/sales_performance.png)
 
 ## Key findings
 

@@ -18,6 +18,7 @@ df = lines.merge(rfm, on="CustomerID", how="left")
 df["Segment"] = df["Segment"].fillna(
     df["CustomerID"].isna().map({True: "Unattributed (no CustomerID)", False: "Not segmented"}))
 df["is_return"] = df["line_type"] == "product_return"
+df["CustomerID"] = df["CustomerID"].astype("Int64")
 df["MonthLabel"] = df["InvoiceMonth"]
 
 cols = ["InvoiceNo", "StockCode", "Description", "Quantity", "UnitPrice", "Revenue", "InvoiceDate",
